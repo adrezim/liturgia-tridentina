@@ -1,0 +1,478 @@
+{
+  "data": "01-01",
+  "tempo_liturgico": "Oitava do Natal",
+  "nome": "Circuncisão do Senhor",
+  "classe": "Festa de 1ª Classe",
+  "ano_missal": "1947",
+  "missa": {
+    "introito": {
+      "la": "Puer natus est nobis, et filius datus est nobis: cujus imperium super humerum ejus: et vocabitur nomen ejus magni consilii Angelus. Ps. Cantate Domino canticum novum: quia mirabilia fecit. ℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+      "pt": "Um Menino nos nasceu, um Filho nos foi dado; o império repousa sobre seus ombros e o seu nome será: Anjo do grande conselho. Sl. Cantai ao Senhor um cântico novo, porque Ele fez maravilhas. ℣. Glória ao Pai, ao Filho e ao Espírito Santo."
+    },
+    "coleta": {
+      "la": "Deus, qui salutis aeternae, beatae Mariae virginitate fecunda, humano generi praemia praestitisti: tribue, quaesumus; ut ipsam pro nobis intercedere sentiamus, per quam meruimus auctorem vitae suscipere. Per Dominum nostrum Jesum Christum.",
+      "pt": "Ó Deus, que pela virgindade fecunda da Bem-aventurada Maria concedestes ao gênero humano o prêmio da salvação eterna, concedei-nos, nós Vos suplicamos, experimentar a intercessão daquela pela qual recebemos o Autor da vida. Por Nosso Senhor Jesus Cristo."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Pauli Apostoli ad Galatas. Fratres: Quanto tempore heres parvulus est, nihil differt a servo, cum sit dominus omnium: sed sub tutoribus et actoribus est usque ad praefinitum tempus a patre. Ita et nos, cum essemus parvuli, sub elementis mundi eramus servientes. At ubi venit plenitudo temporis, misit Deus Filium suum, factum ex muliere, factum sub lege, ut eos, qui sub lege erant, redimeret: ut adoptionem filiorum reciperemus. Quoniam autem estis filii, misit Deus Spiritum Filii sui in corda vestra, clamantem: Abba, Pater. Itaque jam non est servus, sed filius: quod si filius, et heres per Deum.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo aos Gálatas. Irmãos: Enquanto o herdeiro é menor, em nada difere do servo, ainda que seja senhor de tudo; mas está sob tutores e administradores até o tempo determinado pelo pai. Assim também nós, quando éramos menores, estávamos sujeitos aos elementos do mundo. Mas, quando chegou a plenitude dos tempos, Deus enviou o seu Filho, nascido de mulher, sujeito à lei, para resgatar os que estavam sob a lei, a fim de que recebêssemos a adoção de filhos. E porque sois filhos, Deus enviou aos vossos corações o Espírito de seu Filho, que clama: Abba, Pai. Assim, já não és servo, mas filho; e, se és filho, és também herdeiro por Deus."
+    },
+    "gradual": {
+      "la": "Viderunt omnes fines terrae salutare Dei nostri: jubilate Deo omnis terra. ℣. Notum fecit Dominus salutare suum: ante conspectum gentium revelavit justitiam suam.",
+      "pt": "Todos os confins da terra viram a salvação do nosso Deus; aclamai o Senhor, toda a terra. ℣. O Senhor manifestou a sua salvação; revelou a sua justiça diante das nações."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. In illo tempore: Postquam consummati sunt dies octo, ut circumcideretur puer, vocatum est nomen ejus Jesus, quod vocatum est ab Angelo, priusquam in utero conciperetur.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Naquele tempo: Passados oito dias, para ser circuncidado o Menino, foi-lhe posto o nome de Jesus, como lhe tinha sido chamado pelo Anjo, antes de ser concebido no seio materno."
+    },
+    "ofertorio": {
+      "la": "Tui sunt caeli, et tua est terra: orbem terrarum et plenitudinem ejus tu fundasti: justitia et judicium praeparatio sedis tuae.",
+      "pt": "Vos pertencem os céus e a terra; fundastes o mundo e tudo o que ele contém. A justiça e o direito são a base do vosso trono."
+    },
+    "secreta": {
+      "la": "Munera nostra, quaesumus Domine, precibusque susceptis: et coelestibus nos munda mysteriis, et clementer exaudi. Per Dominum nostrum Jesum Christum.",
+      "pt": "Recebei, Senhor, nós Vos suplicamos, as nossas oferendas e preces; purificai-nos pelos celestes mistérios e atendei-nos misericordiosamente. Por Nosso Senhor Jesus Cristo."
+    },
+    "comunhao": {
+      "la": "Viderunt omnes fines terrae salutare Dei nostri.",
+      "pt": "Todos os confins da terra viram a salvação do nosso Deus."
+    },
+    "pos_comunhao": {
+      "la": "Haec nos communio, Domine, purget a crimine: et intercedente beata Virgine Dei Genitrice Maria, coelesti faciat remedio. Per Dominum nostrum Jesum Christum.",
+      "pt": "Que esta comunhão, Senhor, nos purifique de todo pecado e, pela intercessão da Bem-aventurada Virgem Maria, Mãe de Deus, nos conceda o remédio celestial. Por Nosso Senhor Jesus Cristo."
+    }
+  }
+}
+{
+  "data": "01-02",
+  "tempo_liturgico": "Oitava do Natal",
+  "nome": "Oitava do Natal",
+  "classe": "Semiduplex",
+  "ano_missal": "1947",
+  "missa": {
+    "introito": {
+      "la": "Dum medium silentium tenerent omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus, Domine, de caelis a regalibus sedibus venit. Ps. Dominus regnavit, decorem indutus est: indutus est Dominus fortitudinem, et praecinxit se. ℣. Gloria Patri.",
+      "pt": "Quando tudo estava envolto em profundo silêncio, e a noite chegara ao meio do seu curso, desceu do céu, do trono real, ó Senhor, a vossa Palavra onipotente. Sl. O Senhor reina, revestiu-Se de majestade; revestiu-Se o Senhor de fortaleza e cingiu-Se de poder. ℣. Glória ao Pai."
+    },
+    "coleta": {
+      "la": "Concede, quaesumus, omnipotens Deus: ut nos Unigeniti tui nova per carnem nativitas liberet, quos sub peccati jugo vetusta servitus tenet. Per Dominum nostrum Jesum Christum.",
+      "pt": "Concedei-nos, Deus onipotente, nós Vos suplicamos, que o novo nascimento segundo a carne do vosso Filho Unigênito nos liberte da antiga servidão do pecado, sob cujo jugo ainda nos encontramos. Por Nosso Senhor Jesus Cristo."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Pauli Apostoli ad Titum. Carissime: Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abnegantes impietatem et saecularia desideria, sobrie et juste et pie vivamus in hoc saeculo, exspectantes beatam spem et adventum gloriae magni Dei et Salvatoris nostri Jesu Christi: qui dedit semetipsum pro nobis, ut nos redimeret ab omni iniquitate, et mundaret sibi populum acceptabilem, sectatorem bonorum operum.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo a Tito. Caríssimo: Manifestou-se a graça de Deus, nosso Salvador, a todos os homens, ensinando-nos a renunciar à impiedade e aos desejos mundanos, para vivermos neste mundo com sobriedade, justiça e piedade, aguardando a bem-aventurada esperança e a vinda gloriosa do grande Deus e Salvador nosso, Jesus Cristo, que Se entregou por nós, a fim de nos resgatar de toda iniquidade e purificar para Si um povo escolhido, zeloso das boas obras."
+    },
+    "gradual": {
+      "la": "Speciosus forma prae filiis hominum: diffusa est gratia in labiis tuis. ℣. Eructavit cor meum verbum bonum: dico ego opera mea Regi.",
+      "pt": "Sois o mais belo entre os filhos dos homens; a graça espalhou-se em vossos lábios. ℣. Meu coração exprime uma bela palavra: dedico ao Rei as minhas obras."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. In illo tempore: Pastores loquebantur ad invicem: Transeamus usque Bethlehem, et videamus hoc verbum, quod factum est, quod Dominus ostendit nobis. Et venerunt festinantes: et invenerunt Mariam et Joseph, et infantem positum in praesepio.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Naquele tempo, diziam os pastores uns aos outros: Vamos até Belém e vejamos o que aconteceu e que o Senhor nos deu a conhecer. E foram apressadamente, e encontraram Maria, José e o Menino deitado na manjedoura."
+    },
+    "ofertorio": {
+      "la": "Deus firmavit orbem terrae, qui non commovebitur: parata sedes tua, Deus, ex tunc.",
+      "pt": "Deus firmou o mundo, que não será abalado; o vosso trono está preparado desde sempre."
+    },
+    "secreta": {
+      "la": "Munera nostra, quaesumus Domine, nativitatis hodiernae mysteriis apta proveniant: ut sicut homo genitus idem refulsit et Deus, sic nobis haec terrena substantia conferat quod divinum est. Per Dominum nostrum Jesum Christum.",
+      "pt": "Nós Vos suplicamos, Senhor, fazei que as nossas oferendas sejam dignas do mistério do nascimento que hoje celebramos, para que, assim como Aquele que nasceu como homem resplandeceu como Deus, assim também estas realidades terrenas nos alcancem os bens divinos. Por Nosso Senhor Jesus Cristo."
+    },
+    "comunhao": {
+      "la": "Verbum caro factum est, et vidimus gloriam ejus.",
+      "pt": "O Verbo Se fez carne e nós vimos a sua glória."
+    },
+    "pos_comunhao": {
+      "la": "Praesta, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem nativitas liberet, quos sub peccati jugo vetusta servitus tenet. Per Dominum nostrum Jesum Christum.",
+      "pt": "Concedei-nos, Deus onipotente, nós Vos suplicamos, que o novo nascimento segundo a carne do vosso Filho Unigênito nos liberte da antiga servidão do pecado, sob cujo jugo ainda nos encontramos. Por Nosso Senhor Jesus Cristo."
+    }
+  }
+}
+{
+    "data": "01-03",
+    "tempo_liturgico": "Oitava do Natal",
+    "nome": "Oitava do Natal",
+    "classe": "Semiduplex",
+    "ano_missal": "1947",
+    "missa": {
+      "introito": {
+        "la": "Dum medium silentium tenerent omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus, Domine, de caelis a regalibus sedibus venit.",
+        "pt": "Quando tudo estava envolto em profundo silêncio e a noite chegara ao meio do seu curso, desceu do céu, do trono real, ó Senhor, a vossa Palavra onipotente."
+      },
+      "coleta": {
+        "la": "Concede, quaesumus, omnipotens Deus, ut nos Unigeniti tui nova per carnem nativitas liberet.",
+        "pt": "Concedei-nos, Deus onipotente, que o novo nascimento segundo a carne do vosso Filho Unigênito nos liberte."
+      },
+      "epistola": {
+        "la": "Lectio Epistolae beati Pauli Apostoli ad Titum. Apparuit gratia Dei Salvatoris nostri omnibus hominibus.",
+        "pt": "Leitura da Epístola de São Paulo a Tito. Manifestou-se a graça de Deus, nosso Salvador, a todos os homens."
+      },
+      "gradual": {
+        "la": "Speciosus forma prae filiis hominum: diffusa est gratia in labiis tuis.",
+        "pt": "Sois o mais belo entre os filhos dos homens; a graça espalhou-se em vossos lábios."
+      },
+      "evangelho": {
+        "la": "Sequentia sancti Evangelii secundum Lucam. Pastores loquebantur ad invicem.",
+        "pt": "Continuação do santo Evangelho segundo São Lucas. Os pastores diziam entre si."
+      },
+      "ofertorio": {
+        "la": "Deus firmavit orbem terrae.",
+        "pt": "Deus firmou o mundo."
+      },
+      "secreta": {
+        "la": "Munera nostra, quaesumus Domine, nativitatis mysteriis apta proveniant.",
+        "pt": "Nós Vos suplicamos, Senhor, fazei que as nossas oferendas sejam dignas do mistério do nascimento."
+      },
+      "comunhao": {
+        "la": "Verbum caro factum est.",
+        "pt": "O Verbo Se fez carne."
+      },
+      "pos_comunhao": {
+        "la": "Praesta, quaesumus omnipotens Deus.",
+        "pt": "Concedei-nos, Deus onipotente."
+      }
+    }
+  },
+  {
+    "data": "01-04",
+    "tempo_liturgico": "Oitava do Natal",
+    "nome": "Oitava do Natal",
+    "classe": "Semiduplex",
+    "ano_missal": "1947",
+    "missa": {
+      "introito": {
+        "la": "Puer natus est nobis, et filius datus est nobis.",
+        "pt": "Um Menino nos nasceu, um Filho nos foi dado."
+      },
+      "coleta": {
+        "la": "Deus, qui salutis aeternae dona humano generi contulisti.",
+        "pt": "Ó Deus, que concedestes ao gênero humano os dons da salvação eterna."
+      },
+      "epistola": {
+        "la": "Lectio Epistolae beati Pauli Apostoli ad Titum.",
+        "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo a Tito."
+      },
+      "gradual": {
+        "la": "Viderunt omnes fines terrae salutare Dei nostri.",
+        "pt": "Todos os confins da terra viram a salvação do nosso Deus."
+      },
+      "evangelho": {
+        "la": "Sequentia sancti Evangelii secundum Lucam.",
+        "pt": "Continuação do santo Evangelho segundo São Lucas."
+      },
+      "ofertorio": {
+        "la": "Tui sunt caeli et tua est terra.",
+        "pt": "Vos pertencem os céus e a terra."
+      },
+      "secreta": {
+        "la": "Suscipe, quaesumus Domine, munera nostra.",
+        "pt": "Recebei, Senhor, nós Vos suplicamos, as nossas oferendas."
+      },
+      "comunhao": {
+        "la": "Lux fulgebit hodie super nos.",
+        "pt": "Uma luz resplandeceu hoje sobre nós."
+      },
+      "pos_comunhao": {
+        "la": "Haec nos communio purget a crimine.",
+        "pt": "Que esta comunhão nos purifique de todo pecado."
+      }
+    }
+  },
+  {
+    "data": "01-05",
+    "tempo_liturgico": "Oitava do Natal",
+    "nome": "Oitava do Natal",
+    "classe": "Semiduplex",
+    "ano_missal": "1947",
+    "missa": {
+      "introito": {
+        "la": "Lux fulgebit hodie super nos.",
+        "pt": "Uma luz resplandeceu hoje sobre nós."
+      },
+      "coleta": {
+        "la": "Da, quaesumus omnipotens Deus.",
+        "pt": "Concedei-nos, Deus onipotente."
+      },
+      "epistola": {
+        "la": "Lectio Epistolae beati Pauli Apostoli ad Titum.",
+        "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo a Tito."
+      },
+      "gradual": {
+        "la": "Omnes de Saba venient.",
+        "pt": "Todos virão de Sabá."
+      },
+      "evangelho": {
+        "la": "Sequentia sancti Evangelii secundum Matthaeum.",
+        "pt": "Continuação do santo Evangelho segundo São Mateus."
+      },
+      "ofertorio": {
+        "la": "Reges Tharsis munera offerent.",
+        "pt": "Os reis de Társis oferecerão dons."
+      },
+      "secreta": {
+        "la": "Ecclesiae tuae, quaesumus Domine.",
+        "pt": "Nós Vos suplicamos, Senhor, pela vossa Igreja."
+      },
+      "comunhao": {
+        "la": "Viderunt stellam Magi.",
+        "pt": "Os Magos viram a estrela."
+      },
+      "pos_comunhao": {
+        "la": "Illuminati, quaesumus Domine.",
+        "pt": "Iluminados, Senhor, nós Vos suplicamos."
+      }
+    }
+  }
+{
+  "data": "01-06",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Epifania do Senhor",
+  "classe": "Festa de 1ª Classe",
+  "ano_missal": "1947",
+  "missa": {
+    "introito": {
+      "la": "Ecce advenit Dominator Dominus: et regnum in manu ejus, et potestas, et imperium. Ps. Deus, judicium tuum Regi da: et justitiam tuam Filio Regis. ℣. Gloria Patri, et Filio, et Spiritui Sancto.",
+      "pt": "Eis que vem o Senhor dominador; o reino está em suas mãos, bem como o poder e o império. Sl. Ó Deus, dai ao Rei o vosso juízo e ao Filho do Rei a vossa justiça. ℣. Glória ao Pai, ao Filho e ao Espírito Santo."
+    },
+    "coleta": {
+      "la": "Deus, qui hodierna die Unigenitum tuum gentibus stella duce revelasti: concede propitius; ut qui jam te ex fide cognovimus, usque ad contemplandam speciem tuae celsitudinis perducamur. Per Dominum nostrum Jesum Christum.",
+      "pt": "Ó Deus, que no dia de hoje, sob a guia de uma estrela, revelastes o vosso Filho Unigênito aos gentios, concedei-nos propício que nós, que já Vos conhecemos pela fé, sejamos conduzidos à contemplação da vossa excelsa glória. Por Nosso Senhor Jesus Cristo."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Pauli Apostoli ad Ephesios. Fratres: Audistis dispensationem gratiae Dei, quae data est mihi in vobis: quoniam secundum revelationem notum mihi factum est sacramentum, quod gentes sint coheredes, et concorporales, et comparticipes promissionis in Christo Jesu per Evangelium.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo aos Efésios. Irmãos: Certamente ouvistes falar da dispensação da graça de Deus que me foi concedida em vosso favor, pois por revelação me foi dado conhecer o mistério: que os gentios são co-herdeiros, membros do mesmo corpo e participantes da promessa em Cristo Jesus por meio do Evangelho."
+    },
+    "gradual": {
+      "la": "Omnes de Saba venient, aurum et thus deferentes, et laudem Domino annuntiantes. ℣. Surge et illuminare Jerusalem: quia gloria Domini super te orta est.",
+      "pt": "Todos virão de Sabá, trazendo ouro e incenso e proclamando os louvores do Senhor. ℣. Levanta-te e resplandece, Jerusalém, porque a glória do Senhor se levantou sobre ti."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Matthaeum. Cum natus esset Jesus in Bethlehem Judae, in diebus Herodis regis, ecce Magi ab Oriente venerunt Jerosolymam, dicentes: Ubi est qui natus est Rex Judaeorum? Vidimus enim stellam ejus in Oriente, et venimus adorare eum.",
+      "pt": "Continuação do santo Evangelho segundo São Mateus. Tendo Jesus nascido em Belém da Judéia, nos dias do rei Herodes, eis que uns Magos vieram do Oriente a Jerusalém, dizendo: Onde está o Rei dos Judeus que acaba de nascer? Pois vimos a sua estrela no Oriente e viemos adorá-Lo."
+    },
+    "ofertorio": {
+      "la": "Reges Tharsis et insulae munera offerent: reges Arabum et Saba dona adducent: et adorabunt eum omnes reges terrae, omnes gentes servient ei.",
+      "pt": "Os reis de Társis e das ilhas oferecerão dons; os reis da Arábia e de Sabá trarão presentes; todos os reis da terra O adorarão e todas as nações O servirão."
+    },
+    "secreta": {
+      "la": "Ecclesiae tuae, quaesumus Domine, dona propitius intuere: quibus non jam aurum, thus et myrrha profertur, sed quod eisdem muneribus declaratur, immolatur et sumitur, Jesus Christus Filius tuus Dominus noster.",
+      "pt": "Nós Vos suplicamos, Senhor, olhai propício para as oferendas da vossa Igreja, nas quais já não se Vos oferecem ouro, incenso e mirra, mas se imola e se recebe Aquele que esses dons simbolizavam: Jesus Cristo, vosso Filho e nosso Senhor."
+    },
+    "comunhao": {
+      "la": "Vidimus stellam ejus in Oriente, et venimus cum muneribus adorare Dominum.",
+      "pt": "Vimos a sua estrela no Oriente e viemos com presentes adorar o Senhor."
+    },
+    "pos_comunhao": {
+      "la": "Praesta, quaesumus omnipotens Deus: ut quae solemni celebramus officio, purificatae mentis intelligentia consequamur. Per Dominum nostrum Jesum Christum.",
+      "pt": "Concedei-nos, Deus onipotente, nós Vos suplicamos, que possamos alcançar, com espírito purificado, a compreensão do mistério que celebramos solenemente. Por Nosso Senhor Jesus Cristo."
+    }
+  }
+}
+{
+  "data": "01-07",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Feria após a Epifania",
+  "classe": "Feria",
+  "missa": {
+    "introito": {
+      "la": "In excelso throno vidi sedere virum, quem adorat multitudo angelorum, psallentes in unum: ecce cujus imperium est aeternum. Ps. Jubilate Deo omnis terra.",
+      "pt": "Vi sentado num trono excelso um homem a quem adorava a multidão dos anjos, cantando a uma só voz: eis aquele cujo império é eterno. Sl. Cantai com alegria ao Senhor, toda a terra."
+    },
+    "coleta": {
+      "la": "Deus, qui Unigenitum tuum gentibus stella duce revelasti: concede propitius; ut qui jam te ex fide cognovimus, usque ad contemplandam speciem tuae celsitudinis perducamur.",
+      "pt": "Ó Deus, que sob a guia de uma estrela revelastes o vosso Filho Unigênito aos gentios, concedei-nos propício que, conhecendo-Vos agora pela fé, sejamos conduzidos à contemplação da vossa glória."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Joannis Apostoli. Carissimi: Deus caritas est: et qui manet in caritate, in Deo manet.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São João. Caríssimos: Deus é caridade; e quem permanece na caridade permanece em Deus."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. Cum facti essent dies octo, ut circumcideretur puer, vocatum est nomen ejus Jesus.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Quando se completaram os oito dias para a circuncisão do Menino, foi-Lhe posto o nome de Jesus."
+    }
+  }
+}
+{
+  "data": "01-08",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Feria após a Epifania",
+  "classe": "Feria",
+  "missa": {
+    "introito": {
+      "la": "Puer natus est nobis, et Filius datus est nobis: cujus imperium super humerum ejus.",
+      "pt": "Um Menino nasceu para nós, um Filho nos foi dado, e o império repousa sobre os seus ombros."
+    },
+    "coleta": {
+      "la": "Concede, quaesumus omnipotens Deus: ut nos Unigeniti tui nova per carnem nativitas liberet.",
+      "pt": "Concedei-nos, Deus onipotente, que o novo nascimento segundo a carne do vosso Filho Unigênito nos liberte."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Joannis Apostoli. Omne quod natum est ex Deo, vincit mundum.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São João. Tudo o que nasceu de Deus vence o mundo."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. Erat Joseph et Maria mirantes super his quae dicebantur de illo.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. José e Maria admiravam-se das coisas que se diziam do Menino."
+    }
+  }
+}
+{
+  "data": "01-09",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Feria após a Epifania",
+  "classe": "Feria",
+  "missa": {
+    "introito": {
+      "la": "Dum medium silentium tenerent omnia, et nox in suo cursu medium iter haberet.",
+      "pt": "Quando um profundo silêncio envolvia todas as coisas e a noite chegava ao meio do seu curso."
+    },
+    "coleta": {
+      "la": "Omnipotens sempiterne Deus: dirige actus nostros in beneplacito tuo.",
+      "pt": "Deus onipotente e eterno, dirigi nossos atos segundo a vossa vontade."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Joannis Apostoli. Qui diligit fratrem suum, in lumine manet.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São João. Quem ama o seu irmão permanece na luz."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. Descendit Jesus cum eis et venit Nazareth.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Jesus desceu com eles e veio para Nazaré."
+    }
+  }
+}
+{
+  "data": "01-10",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Feria após a Epifania",
+  "classe": "Feria",
+  "missa": {
+    "introito": {
+      "la": "Omnis terra adoret te, Deus, et psallat tibi.",
+      "pt": "Que toda a terra Vos adore, ó Deus, e cante em vosso louvor."
+    },
+    "coleta": {
+      "la": "Praesta, quaesumus omnipotens Deus: ut quae fideliter petimus, efficaciter consequamur.",
+      "pt": "Concedei-nos, Deus onipotente, que alcancemos eficazmente aquilo que Vos pedimos com fé."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Joannis Apostoli. Deus lux est, et tenebrae in eo non sunt ullae.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São João. Deus é luz, e nele não há trevas."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. Parentes Jesu ibant per omnes annos Jerusalem.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Os pais de Jesus iam todos os anos a Jerusalém."
+    }
+  }
+}
+{
+  "data": "01-11",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Feria após a Epifania",
+  "classe": "Feria",
+  "missa": {
+    "introito": {
+      "la": "Laetetur cor quaerentium Dominum: quaerite Dominum, et confirmamini.",
+      "pt": "Alegre-se o coração dos que buscam o Senhor; procurai o Senhor e sede fortalecidos."
+    },
+    "coleta": {
+      "la": "Deus, qui nos redemptionis nostrae annua expectatione laetificas.",
+      "pt": "Ó Deus, que nos alegrais com a expectativa anual da nossa redenção."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Joannis Apostoli. Si confiteamur peccata nostra, fidelis est Deus.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São João. Se confessarmos os nossos pecados, Deus é fiel."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Joannem. In principio erat Verbum.",
+      "pt": "Continuação do santo Evangelho segundo São João. No princípio era o Verbo."
+    }
+  }
+}
+{
+  "data": "01-12",
+  "tempo_liturgico": "Tempo do Natal",
+  "nome": "Batismo do Senhor",
+  "classe": "Festa de 2ª Classe",
+  "missa": {
+    "introito": {
+      "la": "Postquam consummati sunt dies octo, ut circumcideretur puer: vocatum est nomen ejus Jesus, quod vocatum est ab Angelo priusquam in utero conciperetur.",
+      "pt": "Passados os oito dias para a circuncisão do Menino, foi-Lhe posto o nome de Jesus, como fora chamado pelo Anjo antes de ser concebido no seio materno."
+    },
+    "coleta": {
+      "la": "Deus, cujus Unigenitus in substantia nostrae carnis apparuit: praesta, quaesumus; ut per eum, quem similem nobis foris agnovimus, intus reformemur.",
+      "pt": "Ó Deus, cujo Filho Unigênito apareceu revestido da nossa natureza humana, concedei-nos, nós Vos suplicamos, que sejamos interiormente renovados por Aquele que reconhecemos exteriormente semelhante a nós."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Pauli Apostoli ad Titum. Carissime: Apparuit gratia Dei Salvatoris nostri omnibus hominibus, erudiens nos, ut abnegantes impietatem et saecularia desideria, sobrie et juste et pie vivamus in hoc saeculo.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo a Tito. Caríssimo: Manifestou-se a graça de Deus, nosso Salvador, a todos os homens, ensinando-nos a renunciar à impiedade e às paixões mundanas, e a viver neste mundo com sobriedade, justiça e piedade."
+    },
+    "gradual": {
+      "la": "Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebi suae.",
+      "pt": "Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Lucam. Factum est autem, cum baptizaretur omnis populus, et Jesu baptizato et orante, apertum est caelum.",
+      "pt": "Continuação do santo Evangelho segundo São Lucas. Aconteceu que, sendo todo o povo batizado, também Jesus foi batizado; e enquanto orava, abriu-se o céu."
+    },
+    "ofertorio": {
+      "la": "Benedictus qui venit in nomine Domini: Deus Dominus et illuxit nobis.",
+      "pt": "Bendito o que vem em nome do Senhor: o Senhor é Deus e fez brilhar sobre nós a sua luz."
+    },
+    "secreta": {
+      "la": "Oblatio hodierna, Domine, nobis salutem tribuat: et hoc sacrificium, quod in Filii tui apparitione celebramus, fidei nostrae munimentum efficiat.",
+      "pt": "Que a oblação de hoje, Senhor, nos alcance a salvação, e que este sacrifício que celebramos na manifestação de vosso Filho fortaleça a nossa fé."
+    },
+    "communio": {
+      "la": "Omnes qui in Christo baptizati estis, Christum induistis.",
+      "pt": "Todos vós que fostes batizados em Cristo, vos revestistes de Cristo."
+    },
+    "poscommunio": {
+      "la": "Praesta, quaesumus Domine, ut sacramentorum tuorum participatione refecti, in aeternum proficiamus.",
+      "pt": "Concedei-nos, Senhor, que, fortalecidos pela participação dos vossos sacramentos, avancemos para a vida eterna."
+    }
+  }
+}
+{
+  "data": "01-13",
+  "tempo_liturgico": "Tempo depois da Epifania",
+  "nome": "Féria",
+  "classe": "Féria",
+  "missa": {
+    "introito": {
+      "la": "In excelso throno vidi sedentem virum, quem adorat multitudo angelorum, psallentes in unum: ecce cujus imperium in aeternum permanet.",
+      "pt": "Vi sobre um trono elevado um homem sentado, que uma multidão de anjos adorava, cantando todos juntos: eis aquele cujo poder permanece para sempre."
+    },
+    "coleta": {
+      "la": "Deus, qui nos in tanto salutis mysterio laetificas: concede, quaesumus, ut fidei fructus in operibus consequamur.",
+      "pt": "Ó Deus, que nos alegrais com tão grande mistério de salvação, concedei-nos, nós Vos suplicamos, que alcancemos nos atos os frutos da fé."
+    },
+    "epistola": {
+      "la": "Lectio Epistolae beati Pauli Apostoli ad Romanos. Fratres: Habentes donationes secundum gratiam, quae data est nobis, differentes.",
+      "pt": "Leitura da Epístola do bem-aventurado Apóstolo São Paulo aos Romanos. Irmãos: Temos dons diferentes segundo a graça que nos foi concedida."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Matthaeum. In illo tempore: Videns Jesus turbas, ascendit in montem.",
+      "pt": "Continuação do santo Evangelho segundo São Mateus. Naquele tempo, vendo Jesus as multidões, subiu ao monte."
+    }
+  }
+}
+{
+  "data": "01-14",
+  "tempo_liturgico": "Tempo depois da Epifania",
+  "nome": "Féria",
+  "classe": "Féria",
+  "missa": {
+    "introito": {
+      "la": "Adorate Deum omnes Angeli ejus: audivit et laetata est Sion.",
+      "pt": "Adorai a Deus todos os seus anjos; Sião ouviu e alegrou-se."
+    },
+    "coleta": {
+      "la": "Omnipotens sempiterne Deus, qui caelestia simul et terrestria moderaris: supplicationes populi tui clementer exaudi.",
+      "pt": "Deus onipotente e eterno, que governais ao mesmo tempo as coisas do céu e da terra, ouvi com bondade as súplicas do vosso povo."
+    },
+    "evangelho": {
+      "la": "Sequentia sancti Evangelii secundum Matthaeum. In illo tempore: Cum descendisset Jesus de monte, secutae sunt eum turbae multae.",
+      "pt": "Continuação do santo Evangelho segundo São Mateus. Naquele tempo, descendo Jesus do monte, seguiram-No muitas multidões."
+    }
+  }
+}
