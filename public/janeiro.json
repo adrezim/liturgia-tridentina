@@ -136,14 +136,6 @@
     }
   ]
 }
-Perfeito! Este é um caso interessante de Missa da Féria (dia de semana comum) que "toma" o formulário (leituras e orações) de um dia de festa anterior, no caso, a Missa da Circuncisão de Jesus (01/01).
-
-Estruturei o JSON mantendo a ordem do cabeçalho que você confirmou (data, titulo_liturgia, festa, etc.), com a observação específica sobre a missa ser tirada de 01/01.
-
-Aqui está o JSON para 03 de janeiro:
-
-JSON
-
 {
   "data": "01-03",
   "titulo_liturgia": "Liturgia Diária",
