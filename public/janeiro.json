@@ -499,3 +499,958 @@
     }
   ]
 }
+{
+  "data": "01-08",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "MISSA DA FÉRIA",
+  "classe_missa": "4ª Classe",
+  "observacoes": "Missa da Epifania",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Mal. 3,1; I Cr 29, 12 | Sl 71, 1)",
+      "texto_latim": "Ecce, advénit dominátor Dóminus: et regnum in manu ejus et potéstas et impérium. Ps. Deus, judícium tuum Regi da: et justítiam tuam Fílio Regis. ℣. Gloria Patri.",
+      "texto_portugues": "Eis que ai vem, o soberano Senhor; em sua mão está o Reino, o Poder e o Império. Sl. Ó Deus, dai o vosso julgamento ao Rei; e a vossa justiça ao Filho do Rei. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, qui hodiérna die Unigénitum tuum géntibus steila duce reve- lásti: concéde propítius; ut, qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur. Per eúndem D. N.",
+      "texto_portugues": "Ó Deus, que no dia de hoje manifestastes o vosso Unigênito aos gentios, guiados por uma estrela, concedei propício, que conhecendo-Vos pela fé, cheguemos também a contemplar o Esplendor de vossa Majestade. Pelo mesmo J. C."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Is 60, 1-6)",
+      "texto_latim": "Lectio Isaíæ Prophétæ. Surge, illumináre, Jerúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et caligo pópulos: super te autem oriétur Dóminus, et glória ejus in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.",
+      "texto_portugues": "Leitura do Profeta Isaías. Levanta-te, Jerusalém, e resplandece, porque já veio a tua luz, e a glória do Senhor nasceu sobre ti. Porque eis que as trevas cobrem a terra, e a escuridão, os povos, mas sobre ti se levanta o Senhor e em ti se manifesta a sua glória. E as nações caminham ao fulgor de tua luz, e os reis, ao esplendor de tua aurora. Ergue os olhos em derredor, e vê: todos o povos se congregam e vêm a ti; teus filhos vêm de longe, e tuas filhas surgem de todos os lados. Então verás e transbordarás de alegria, teu coração se maravilhará e se dilatará, quando a ti vier a multidão de além dos mares, e os grandes, dentre os pagãos, se acercarem de ti. Serás como inundada pela afluência de camelos e dromedários de Mediam e Efa; todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 97, 3 e 2 | Heb 1, 1-2)",
+      "texto_latim": "Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes. ℣. Surge et illumináre, Jerúsalem: quia glória Dómini super te orta est. Allelúia, allelúia, ℣. Vídimus stellam ejus in Oriénte,et vénimus cum munéribus adoráre Dóminum. Allelúia.",
+      "texto_portugues": "Todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor. ℣. Levanta-te, Jerusalém, e resplandece, porque a glória do Senhor se levantou sobre ti. Aleluia, aleluia. ℣. Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Mt 2, 1-12)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce, Magi ab Oriénte venerunt Jerosólymam, dicéntes: Ubi est, qui natus est rex Judæórum? Vidimus enim stellam ejus in Oriénte, et vénimus adoráre eum. Audiens autem Heródes rex, turbatus est, et omnis Jerosólyma cum illo. Et cóngregans omnes principes sacerdotum et scribas pópuli, sciscita- bátur ab eis, ubi Christus nasceretur. At illi dixérunt ei: In Béthlehem Judae: sic enim scriptum est per Prophétam: Et tu, Béthlehem terra Juda, nequaquam mínima es in princípibus Juda; ex te enim éxiet dux, qui regat pópulum meum Israel. Tunc Heródes, clam vocátis Magis, diligénter dídicit ab eis tempus stellæ, quæ appáruit eis: et mittens illos in Béthlehem, dixit: Ite, et interrogáte diligénter de púero: et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum. Qui cum audíssent regem, abiérunt. Et ecce, stella, quam víderant in Oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat Puer. Vidéntes autem stellam, gavísi sunt gáudio magno valde. Et intrántes domum, invenérunt Púerum cum María Matre ejus, (hic genuflectitur) ei procidéntes adoravérunt eum. Et, apértis thesáuris suis, obtulérunt ei múnera, aurum, thus et myrrham. Et re sponso accépto in somnis, ne redírent ad Heródem, per aliam viam revérsi sunt in regiónem suam.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Tendo Jesus nascido em Belém de Judá, nos dias do Rei Herodes, eis que do Oriente vieram uns Magos a Jerusalém, perguntando: Onde está o recém-nascido Rei dos Judeus? Porque vimos a sua estrela no Oriente e viemos adorá-Lo. Ouvindo isto, o rei Herodes turbou-se e com ele toda Jerusalém. E convocando todos os príncipes dos sacerdotes e os escribas do povo, indagava deles onde havia de nascer o Cristo. E eles disseram: Em Belém de Judá, porque assim está escrito pelo. Profeta: E tu, Belém, terra de Judá, de modo algum és a menor entre as principais cidades de Judá; porque de ti sairá o Guia, que há de governar o meu povo de Israel. Então Herodes chamando secretamente os Magos, inquiriu cuidadosamente deles o tempo em que lhes aparecera a estrela. E enviando-os a Belém, disse-lhes: Ide e perguntai diligentemente pelo Menino, e assim que O achardes, fazei-mo saber para que eu vá também e O adore. Tendo eles ouvido as palavras do Rei, foram-se. E eis que a estrela que tinham visto no Oriente ia adiante deles, até que, chegando, parou sobre o lugar em que estava o Menino. Vendo a estrela, exultaram com grandíssima alegria. E entraram na casa, e acharam o Menino com Maria, sua Mãe (aqui todos se ajoelham) e, prostrando-se, O adoraram. E abertos os seus tesouros ofereceram-Lhe como presentes, ouro, incenso e mirra. E, sendo avisados em sonho que não voltassem a Herodes, regressaram por outro caminho a seu país."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 71, 10-11)",
+      "texto_latim": "Reges Tharsis, et ínsulæ múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terræ, omnes gentes sérvient ei.",
+      "texto_portugues": "Os reis de Tarsis e das ilhas oferecer-Lhe-ão presentes; os reis da Arábia e de Sabá trarão donativos; adorá-Lo-ão todos os reis da terra e os povos todos O servirão."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Ecclésiæ tuæ, quæsumus, Dómine, dona propítius intuere: quibus non jam aurum, thus et myrrha profertur; sed quod eisdem munéribus declarátur, immolátur et súmitur, Jesus Christus, fílius tuus, Dóminus noster: Qui tecum vivit et regnat.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, olhai propício para as ofertas de vossa Igreja, que não mais Vos oferece ouro, incenso e mirra, porém Aquele mesmo que estes dons simbolizam, e que é agora imolado e recebido como Alimento, Jesus Cristo, vosso Filho, Nosso Senhor, que, sendo Deus, convosco vive e reina."
+    },
+    {
+      "nome": "Prefácio (da Epifania)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi simper, et ubique gratias agree: Domine sancta, Pater omnipotens, aeterne Deus. Quia cum Unigenitus tuus in substantia nostrae mortalivatis apparuit, nova nos immortalitatis suae luce reparavit. Et ideo cum Angelis et Archangelis, cum Thronis et Dominationibus, cumque omni militia celestis exercitus, hymmum gloriae tuae canimus, sine fine dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. Porque, manifestando-se o vosso Unigênito Filho na substância de nossa carne mortal, restaurou-nos com a nova luz de sua imortalidade. E por isso, com os Anjos e os Arcanjos, com os Tronos e as Dominações, com toda a milícia do exército celestial, cantamos hinos à vossa glória, dizendo sem fim: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Mt 2, 2)",
+      "texto_latim": "Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.",
+      "texto_portugues": "Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Præsta, quǽsumus, omnípotens Deus: ut, quæ sollémni celebrámus officio, purificátæ mentis intellegéntia consequámur. Per D.N.",
+      "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-09",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "MISSA DA FÉRIA",
+  "classe_missa": "4ª Classe",
+  "observacoes": "Missa da Epifania",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Mal. 3,1; I Cr 29, 12 | Sl 71, 1)",
+      "texto_latim": "Ecce, advénit dominátor Dóminus: et regnum in manu ejus et potéstas et impérium. Ps. Deus, judícium tuum Regi da: et justítiam tuam Fílio Regis. ℣. Gloria Patri.",
+      "texto_portugues": "Eis que ai vem, o soberano Senhor; em sua mão está o Reino, o Poder e o Império. Sl. Ó Deus, dai o vosso julgamento ao Rei; e a vossa justiça ao Filho do Rei. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, qui hodiérna die Unigénitum tuum géntibus steila duce reve- lásti: concéde propítius; ut, qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur. Per eúndem D. N.",
+      "texto_portugues": "Ó Deus, que no dia de hoje manifestastes o vosso Unigênito aos gentios, guiados por uma estrela, concedei propício, que conhecendo-Vos pela fé, cheguemos também a contemplar o Esplendor de vossa Majestade. Pelo mesmo J. C."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Is 60, 1-6)",
+      "texto_latim": "Lectio Isaíæ Prophétæ. Surge, illumináre, Jerúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et caligo pópulos: super te autem oriétur Dóminus, et glória ejus in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.",
+      "texto_portugues": "Leitura do Profeta Isaías. Levanta-te, Jerusalém, e resplandece, porque já veio a tua luz, e a glória do Senhor nasceu sobre ti. Porque eis que as trevas cobrem a terra, e a escuridão, os povos, mas sobre ti se levanta o Senhor e em ti se manifesta a sua glória. E as nações caminham ao fulgor de tua luz, e os reis, ao esplendor de tua aurora. Ergue os olhos em derredor, e vê: todos o povos se congregam e vêm a ti; teus filhos vêm de longe, e tuas filhas surgem de todos os lados. Então verás e transbordarás de alegria, teu coração se maravilhará e se dilatará, quando a ti vier a multidão de além dos mares, e os grandes, dentre os pagãos, se acercarem de ti. Serás como inundada pela afluência de camelos e dromedários de Mediam e Efa; todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 97, 3 e 2 | Heb 1, 1-2)",
+      "texto_latim": "Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes. ℣. Surge et illumináre, Jerúsalem: quia glória Dómini super te orta est. Allelúia, allelúia, ℣. Vídimus stellam ejus in Oriénte,et vénimus cum munéribus adoráre Dóminum. Allelúia.",
+      "texto_portugues": "Todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor. ℣. Levanta-te, Jerusalém, e resplandece, porque a glória do Senhor se levantou sobre ti. Aleluia, aleluia. ℣. Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Mt 2, 1-12)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce, Magi ab Oriénte venerunt Jerosólymam, dicéntes: Ubi est, qui natus est rex Judæórum? Vidimus enim stellam ejus in Oriénte, et vénimus adoráre eum. Audiens autem Heródes rex, turbatus est, et omnis Jerosólyma cum illo. Et cóngregans omnes principes sacerdotum et scribas pópuli, sciscita- bátur ab eis, ubi Christus nasceretur. At illi dixérunt ei: In Béthlehem Judae: sic enim scriptum est per Prophétam: Et tu, Béthlehem terra Juda, nequaquam mínima es in princípibus Juda; ex te enim éxiet dux, qui regat pópulum meum Israel. Tunc Heródes, clam vocátis Magis, diligénter dídicit ab eis tempus stellæ, quæ appáruit eis: et mittens illos in Béthlehem, dixit: Ite, et interrogáte diligénter de púero: et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum. Qui cum audíssent regem, abiérunt. Et ecce, stella, quam víderant in Oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat Puer. Vidéntes autem stellam, gavísi sunt gáudio magno valde. Et intrántes domum, invenérunt Púerum cum María Matre ejus, (hic genuflectitur) ei procidéntes adoravérunt eum. Et, apértis thesáuris suis, obtulérunt ei múnera, aurum, thus et myrrham. Et re sponso accépto in somnis, ne redírent ad Heródem, per aliam viam revérsi sunt in regiónem suam.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Tendo Jesus nascido em Belém de Judá, nos dias do Rei Herodes, eis que do Oriente vieram uns Magos a Jerusalém, perguntando: Onde está o recém-nascido Rei dos Judeus? Porque vimos a sua estrela no Oriente e viemos adorá-Lo. Ouvindo isto, o rei Herodes turbou-se e com ele toda Jerusalém. E convocando todos os príncipes dos sacerdotes e os escribas do povo, indagava deles onde havia de nascer o Cristo. E eles disseram: Em Belém de Judá, porque assim está escrito pelo. Profeta: E tu, Belém, terra de Judá, de modo algum és a menor entre as principais cidades de Judá; porque de ti sairá o Guia, que há de governar o meu povo de Israel. Então Herodes chamando secretamente os Magos, inquiriu cuidadosamente deles o tempo em que lhes aparecera a estrela. E enviando-os a Belém, disse-lhes: Ide e perguntai diligentemente pelo Menino, e assim que O achardes, fazei-mo saber para que eu vá também e O adore. Tendo eles ouvido as palavras do Rei, foram-se. E eis que a estrela que tinham visto no Oriente ia adiante deles, até que, chegando, parou sobre o lugar in que estava o Menino. Vendo a estrela, exultaram com grandíssima alegria. E entraram na casa, e acharam o Menino com Maria, sua Mãe (aqui todos se ajoelham) e, prostrando-se, O adoraram. E abertos os seus tesouros ofereceram-Lhe como presentes, ouro, incenso e mirra. E, sendo avisados em sonho que não voltassem a Herodes, regressaram por outro caminho a seu país."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 71, 10-11)",
+      "texto_latim": "Reges Tharsis, et ínsulæ múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terræ, omnes gentes sérvient ei.",
+      "texto_portugues": "Os reis de Tarsis e das ilhas oferecer-Lhe-ão presentes; os reis da Arábia e de Sabá trarão donativos; adorá-Lo-ão todos os reis da terra e os povos todos O servirão."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Ecclésiæ tuæ, quæsumus, Dómine, dona propítius intuere: quibus non jam aurum, thus et myrrha profertur; sed quod eisdem munéribus declarátur, immolátur et súmitur, Jesus Christus, fílius tuus, Dóminus noster: Qui tecum vivit et regnat.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, olhai propício para as ofertas de vossa Igreja, que não mais Vos oferece ouro, incenso e mirra, porém Aquele mesmo que estes dons simbolizam, e que é agora imolado e recebido como Alimento, Jesus Cristo, vosso Filho, Nosso Senhor, que, sendo Deus, convosco vive e reina."
+    },
+    {
+      "nome": "Prefácio (da Epifania)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi simper, et ubique gratias agree: Domine sancta, Pater omnipotens, aeterne Deus. Quia cum Unigenitus tuus in substantia nostrae mortalivatis apparuit, nova nos immortalitatis suae luce reparavit. Et ideo cum Angelis et Archangelis, cum Thronis et Dominationibus, cumque omni militia celestis exercitus, hymmum gloriae tuae canimus, sine fine dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. Porque, manifestando-se o vosso Unigênito Filho na substância de nossa carne mortal, restaurou-nos com a nova luz de sua imortalidade. E por isso, com os Anjos e os Arcanjos, com os Tronos e as Dominações, com toda a milícia do exército celestial, cantamos hinos à vossa glória, dizendo sem fim: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Mt 2, 2)",
+      "texto_latim": "Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.",
+      "texto_portugues": "Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Præsta, quǽsumus, omnípotens Deus: ut, quæ sollémni celebrámus officio, purificátæ mentis intellegéntia consequámur. Per D.N.",
+      "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-10",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "MISSA DA FÉRIA",
+  "classe_missa": "4ª Classe",
+  "observacoes": "Missa da Epifania",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Mal. 3,1; I Cr 29, 12 | Sl 71, 1)",
+      "texto_latim": "Ecce, advénit dominátor Dóminus: et regnum in manu ejus et potéstas et impérium. Ps. Deus, judícium tuum Regi da: et justítiam tuam Fílio Regis. ℣. Gloria Patri.",
+      "texto_portugues": "Eis que ai vem, o soberano Senhor; em sua mão está o Reino, o Poder e o Império. Sl. Ó Deus, dai o vosso julgamento ao Rei; e a vossa justiça ao Filho do Rei. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, qui hodiérna die Unigénitum tuum géntibus steila duce reve- lásti: concéde propítius; ut, qui jam te ex fide cognóvimus, usque ad contemplándam spéciem tuæ celsitúdinis perducámur. Per eúndem D. N.",
+      "texto_portugues": "Ó Deus, que no dia de hoje manifestastes o vosso Unigênito aos gentios, guiados por uma estrela, concedei propício, que conhecendo-Vos pela fé, cheguemos também a contemplar o Esplendor de vossa Majestade. Pelo mesmo J. C."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Is 60, 1-6)",
+      "texto_latim": "Lectio Isaíæ Prophétæ. Surge, illumináre, Jerúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et caligo pópulos: super te autem oriétur Dóminus, et glória ejus in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.",
+      "texto_portugues": "Leitura do Profeta Isaías. Levanta-te, Jerusalém, e resplandece, porque já veio a tua luz, e a glória do Senhor nasceu sobre ti. Porque eis que as trevas cobrem a terra, e a escuridão, os povos, mas sobre ti se levanta o Senhor e em ti se manifesta a sua glória. E as nações caminham ao fulgor de tua luz, e os reis, ao esplendor de tua aurora. Ergue os olhos em derredor, e vê: todos o povos se congregam e vêm a ti; teus filhos vêm de longe, e tuas filhas surgem de todos os lados. Então verás e transbordarás de alegria, teu coração se maravilhará e se dilatará, quando a ti vier a multidão de além dos mares, e os grandes, dentre os pagãos, se acercarem de ti. Serás como inundada pela afluência de camelos e dromedários de Mediam e Efa; todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 97, 3 e 2 | Heb 1, 1-2)",
+      "texto_latim": "Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes. ℣. Surge et illumináre, Jerúsalem: quia glória Dómini super te orta est. Allelúia, allelúia, ℣. Vídimus stellam ejus in Oriénte,et vénimus cum munéribus adoráre Dóminum. Allelúia.",
+      "texto_portugues": "Todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor. ℣. Levanta-te, Jerusalém, e resplandece, porque a glória do Senhor se levantou sobre ti. Aleluia, aleluia. ℣. Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Mt 2, 1-12)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. Cum natus esset Jesus in Béthlehem Juda in diébus Heródis regis, ecce, Magi ab Oriénte venerunt Jerosólymam, dicéntes: Ubi est, qui natus est rex Judæórum? Vidimus enim stellam ejus in Oriénte, et vénimus adoráre eum. Audiens autem Heródes rex, turbatus est, et omnis Jerosólyma cum illo. Et cóngregans omnes principes sacerdotum et scribas pópuli, sciscita- bátur ab eis, ubi Christus nasceretur. At illi dixérunt ei: In Béthlehem Judae: sic enim scriptum est per Prophétam: Et tu, Béthlehem terra Juda, nequaquam mínima es in princípibus Juda; ex te enim éxiet dux, qui regat pópulum meum Israel. Tunc Heródes, clam vocátis Magis, diligénter dídicit ab eis tempus stellæ, quæ appáruit eis: et mittens illos in Béthlehem, dixit: Ite, et interrogáte diligénter de púero: et cum invenéritis, renuntiáte mihi, ut et ego véniens adórem eum. Qui cum audíssent regem, abiérunt. Et ecce, stella, quam víderant in Oriénte, antecedébat eos, usque dum véniens staret supra, ubi erat Puer. Vidéntes autem stellam, gavísi sunt gáudio magno valde. Et intrántes domum, invenérunt Púerum cum María Matre ejus, (hic genuflectitur) ei procidéntes adoravérunt eum. Et, apértis thesáuris suis, obtulérunt ei múnera, aurum, thus et myrrham. Et re sponso accépto in somnis, ne redírent ad Heródem, per aliam viam revérsi sunt in regiónem suam.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Tendo Jesus nascido em Belém de Judá, nos dias do Rei Herodes, eis que do Oriente vieram uns Magos a Jerusalém, perguntando: Onde está o recém-nascido Rei dos Judeus? Porque vimos a sua estrela no Oriente e viemos adorá-Lo. Ouvindo isto, o rei Herodes turbou-se e com ele toda Jerusalém. E convocando todos os príncipes dos sacerdotes e os escribas do povo, indagava deles onde havia de nascer o Cristo. E eles disseram: Em Belém de Judá, porque assim está escrito pelo. Profeta: E tu, Belém, terra de Judá, de modo algum és a menor entre as principais cidades de Judá; porque de ti sairá o Guia, que há de governar o meu povo de Israel. Então Herodes chamando secretamente os Magos, inquiriu cuidadosamente deles o tempo em que lhes aparecera a estrela. E enviando-os a Belém, disse-lhes: Ide e perguntai diligentemente pelo Menino, e assim que O achardes, fazei-mo saber para que eu vá também e O adore. Tendo eles ouvido as palavras do Rei, foram-se. E eis que a estrela que tinham visto no Oriente ia adiante deles, até que, chegando, parou sobre o lugar em que estava o Menino. Vendo a estrela, exultaram com grandíssima alegria. E entraram na casa, e acharam o Menino com Maria, sua Mãe (aqui todos se ajoelham) e, prostrando-se, O adoraram. E abertos os seus tesouros ofereceram-Lhe como presentes, ouro, incenso e mirra. E, sendo avisados em sonho que não voltassem a Herodes, regressaram por outro caminho a seu país."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 71, 10-11)",
+      "texto_latim": "Reges Tharsis, et ínsulæ múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terræ, omnes gentes sérvient ei.",
+      "texto_portugues": "Os reis de Tarsis e das ilhas oferecer-Lhe-ão presentes; os reis da Arábia e de Sabá trarão donativos; adorá-Lo-ão todos os reis da terra e os povos todos O servirão."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Ecclésiæ tuæ, quæsumus, Dómine, dona propítius intuere: quibus non jam aurum, thus et myrrha profertur; sed quod eisdem munéribus declarátur, immolátur et súmitur, Jesus Christus, fílius tuus, Dóminus noster: Qui tecum vivit et regnat.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, olhai propício para as ofertas de vossa Igreja, que não mais Vos oferece ouro, incenso e mirra, porém Aquele mesmo que estes dons simbolizam, e que é agora imolado e recebido como Alimento, Jesus Cristo, vosso Filho, Nosso Senhor, que, sendo Deus, convosco vive e reina."
+    },
+    {
+      "nome": "Prefácio (da Epifania)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi simper, et ubique gratias agree: Domine sancta, Pater omnipotens, aeterne Deus. Quia cum Unigenitus tuus in substantia nostrae mortalivatis apparuit, nova nos immortalitatis suae luce reparavit. Et ideo cum Angelis et Archangelis, cum Thronis et Dominationibus, cumque omni militia celestis exercitus, hymmum gloriae tuae canimus, sine fine dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. Porque, manifestando-se o vosso Unigênito Filho na substância de nossa carne mortal, restaurou-nos com a nova luz de sua imortalidade. E por isso, com os Anjos e os Arcanjos, com os Tronos e as Dominações, com toda a milícia do exército celestial, cantamos hinos à vossa glória, dizendo sem fim: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Mt 2, 2)",
+      "texto_latim": "Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.",
+      "texto_portugues": "Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Præsta, quǽsumus, omnípotens Deus: ut, quæ sollémni celebrámus officio, purificátæ mentis intellegéntia consequámur. Per D.N.",
+      "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-11",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "SANCTA MARIA IN SABBATO",
+  "classe_missa": "Missa Votiva (4ª Classe)",
+  "observacoes": "Missa 'Vultum tuum' (Do Natal a Purificação), com comemoração de S. Higino, Papa e Mártir.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 44, 13, 15 e 16 | ib., 2)",
+      "texto_latim": "Vultum tuum deprecabúntur omnes dívites plebis: adducántur Regi Vírgines post eam: próximæ ejus adducéntur tibi in lætítia et exsultatióne. Ps. Eructávit cor meum verbum bonum: dico ego ópera mea Regi. ℣.Glória Patri.",
+      "texto_portugues": "Todos os ricos do povo com dádivas suplicarão o vosso olhar; as Virgens que a seguem são conduzidas até o Rei: suas companheiras são apresentadas ao Rei, no meio da alegria e do júbilo. Sl. Exulta o meu coração em alegre canto: ao Rei dedico as minhas obras. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno generi prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum, Fílium tuum: Qui tecum vivit.",
+      "texto_portugues": "Ó Deus, que, pela virgindade fecunda da Bem-aventurada sempre Virgem Maria, destes ao gênero humano o prêmio da salvação eterna, concedei, Vos rogamos, que, em nosso favor experimentemos a intercessão daquela pela qual merecemos receber o Autor dá vida, Nosso Senhor, Jesus Cristo, vosso Filho, que convosco vive."
+    },
+    {
+      "nome": "2ª Coleta (de S. Higino)",
+      "referencia": null,
+      "texto_latim": "Gregem tuum, Pastor ætérne, placátus inténde: et, per beátum Hygínum Mártyrem tuum atque Summum Pontíficem, perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem. Per D.N.",
+      "texto_portugues": "Olhai propício, Pastor Eterno, para o vosso rebanho e guardai-o sob a vossa constante proteção, pela intercessão do bem-aventurado Higino, vosso Mártir e Pontífice Supremo, a quem estabelecestes como Pastor de toda a Igreja. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Tt 3, 4-7)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Titum. Caríssime: Appáruit benígnitas et humánitas Salvatóris nostri Dei: non ex opéribus justítiæ, quæ fécimus nos, sed secúndum suam misericórdiam salvos nos fecit, per lavácrum regeneratiónis et renovatiónis Spíritus Sancti, quem effúdit in nos abúnde per Jesum Christum, Salvatórem nostrum: ut, justificáti grátia ipsíus, herédes simus secúndum spem vitæ ætérnæ: in Christo Jesu, Dómino nostro.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo a Tito. Caríssimo: Manifestou-se a benignidade e o Amor de Deus, nosso Salvador, e salvou-nos, não pelas obras de justiça que houvéssemos feito, mas por sua misericórdia, pelo batismo da regeneração e da renovação no Espírito Santo. Largamente Ele O derramou sobre nós por Jesus Cristo, nosso Salvador, a fim de que, justificados por sua graça, sejamos herdeiros da vida eterna, pela esperança no Cristo Jesus, Senhor nosso."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 44, 3 e 2 |-)",
+      "texto_latim": "Speciósus forma præ fíliis hóminum: diffúsa est grátia in lábiis tuis. ℣. Eructávit cor meum verbum bonum: dico ego ópera mea Regi: lingua mea cálamus scribæ velóciter scribéntis. Allelúia, allelúia. ℣. Post partum, Virgo, invioláta permansísti: Dei Génetrix, intercéde pro nobis. Allelúia.",
+      "texto_portugues": "Ultrapassais em formosura os filhos dos homens; a graça expande-se em vossos lábios. ℣. Exulta o meu coração em alegre canto: ao Rei dedico as minhas obras. Minha língua é como a pena do escriba que escreve velozmente. Aleluia, aleluia. ℣. Depois de haverdes dado à luz, permanecestes, ó Virgem, Imaculada. Intercedei por nós, ó Mãe de Deus. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Lc 2, 15-20)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Lucam. In illo témpore: Pastóres loquebántur ad ínvicem: Transeámus usque Béthlehem, et videámus hoc verbum, quod factum est, quod Dóminus osténdit nobis. Et venérunt festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio. Vidéntes autem cognovérunt de verbo, quod dictum erat illis de Púero hoc. Et omnes, qui audiérunt, miráti sunt: et de his, quæ dicta erant a pastóribus ad ipsos. María autem conservábat ómnia verba hæc, cónferens in corde suo. Et revérsi sunt pastores, glorificántes et laudántes Deum in ómnibus, quæ audíerant et víderant, sicut dictum est ad illos.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Lucas. Naquele tempo, diziam entre si os pastores: Vamos até Belém, e vejamos o que ali sucedeu e o que o Senhor nos manifestou. E foram com presteza, e encontraram Maria e José, e o Menino reclinado no presepe. Vendo isto, certificaram-se do que lhes fora dito acerca deste Menino. E todos os que os ouviram falar, admiraram-se do que os pastores lhes diziam. Maria, porém, conservava todas estas palavras em seu coração. E os pastores voltaram, glorificando e louvando a Deus por tudo quanto tinham visto e ouvido, conforme lhes fora anunciado."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": null,
+      "texto_latim": "Felix namque es, sacra Virgo María, et omni laude digníssima: quia ex te ortus est sol justítiæ, Christus, Deus noster.",
+      "texto_portugues": "Sois feliz e digna de todo o louvor, ó santa Virgem Maria, pois de vós nasceu o sol da justiça, o Cristo, nosso Deus."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Tua, Domine, propitiatióne, et beátae Mariae semper Vírginis intercessióne, ad perpétuam atque praeséntem haec oblátio nobis profíciat prosperitátem et pacem. Per D. N.",
+      "texto_portugues": "Aproveite-nos, Senhor, esta oblação para nossa perpétua e presente paz e prosperidade, por vossa misericórdia e pela intercessão da Bem-aventurada sempre Virgem Maria. Por N. S."
+    },
+    {
+      "nome": "2ª Secreta (de S. Higino)",
+      "referencia": null,
+      "texto_latim": "Oblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubique succéssus, et grati fiant nómini tuo, te gubernánte, pastóres. Per D.N.",
+      "texto_portugues": "Por estas dádivas, Senhor, iluminai, benignamente, a vossa Igreja, para que, bem sucedida, progrida vosso rebanho em toda parte e os pastores por Vós governados se tornem gratos ao vosso Nome. Por N. S."
+    },
+    {
+      "nome": "Prefácio (da Ssma. Virgem)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, æqum et salutáre, nos tibi semper, et ubique grátias ágere: Dómine sancte, Pater omnípotens, ætérne Deus. Et te in Veneratione beátæ Mariæ semper Vírginis collaudáre, benedícere, et prædicáre. Quæ et Unigénitum tuum Sancti Spíritus obumbratióne concépit, et virginitátis glória permanénte, lumen ætérnum mundo effúdit, Jesum Christum Dóminum nostrum. Per quem majestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes coeli coelorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant. Cum quibus et nostras voces ut admitti júbeas deprecámur, súpplici confessióne dicéntes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. E que, na Veneração da Bem-aventurada sempre Virgem Maria, Vos louvemos, bendigamos e exaltemos. Por obra do Espírito Santo ela concebeu o vosso Unigênito, e permanecendo com a glória da virgindade, deu ao mundo a eterna Luz, Jesus Cristo, Nosso Senhor. Por Ele os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as Virtudes dos Céus e os bem-aventurados Serafins a celebram com recíproca alegria. As suas vozes, nós Vos rogamos, mandeis que. se unam as nossas, quando, em humilde confissão, Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": null,
+      "texto_latim": "Beáta víscera Maríæ Vírginis, quæ portavérunt ætérni Patris Fílium.",
+      "texto_portugues": "Bem-aventuradas as entranhas da Virgem Maria, que encerraram o Filho do Eterno Pai."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Hæc nos commúnio, Dómine, purget a crímine: et, intercedénte beáta Vírgine Dei Genetríce María, caeléstis remédii fáciat esse consórtes. Per eúndem Dóminum.",
+      "texto_portugues": "Esta Comunhão, Senhor, nos purifique de nossas faltas, e, intercedendo por nós a Bem-aventurada Virgem Maria, Mãe de Deus, nos faça participar do remédio celeste. Pelo mesmo J. C."
+    },
+    {
+      "nome": "2ª Pós-comunhão (de S. Higino)",
+      "referencia": null,
+      "texto_latim": "Refectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat. Per D.N.",
+      "texto_portugues": "Senhor, governai benignamente, a vossa Igreja, agora alimentada com a Refeição Sagrada, para que, sustentada por vosso braço poderoso venha a crescer em liberdade e perseverar na integridade da religião. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-12",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "MISSA DA FÉRIA",
+  "classe_missa": "4ª Classe",
+  "observacoes": "Missa do I Domingo depois da Epifania",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(- | Sl 99, 1)",
+      "texto_latim": "In excélso throno vidi sedére virum, quem adórat multitúdo Angelórum, psalléntes in unum: ecce, cuius impérii nomen est in ætérnum. Ps. Jubiláte Deo, omnis terra: servíte Dómino in lætítia. ℣. Gloria Patri.",
+      "texto_portugues": "Em trono elevado vi assentado o Varão, a quem adora a multidão dos Anjos, cantando em coro: Eis Aquele cujo império dura eternamente. Sl. Aclamai a Deus, toda a terra; servi ao Senhor com alegria. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Vota, quǽsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et, quæ agénda sunt, vídeant, et ad implénda, quæ víderint, convaléscant. Per D.N.",
+      "texto_portugues": "Nós Vos pedimos, Senhor, favorecei com divina e paternal bondade as preces de vosso povo suplicante a fim de que todos conheçam o que devem praticar e conhecendo-o, tenham a força de o cumprir. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Rm 12, 1-5)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Obsecro vos per misericórdiam Dei, ut exhibeátis córpora vestra hóstiam vivéntem, sanctam, Deo placéntem, rationábile obséquium vestrum. Et nolíte conformári huic sǽculo, sed reformámini in novitáte sensus vestri: ut probétis, quæ sit volúntas Dei bona, et benéplacens, et perfécta. Dico enim per grátiam, quæ data est mihi, ómnibus qui sunt inter vos: Non plus sápere, quam opórtet sápere, sed sápere ad sobrietátem: et unicuique sicut Deus divísit mensúram fídei. Sicut enim in uno córpore multa membra habémus, ómnia autem membra non eúndem actum habent: ita multi unum corpus sumus in Christo, sínguli autem alter alteríus membra: in Christo Iesu, Dómino nostro.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Romanos. Irmãos: Rogo-vos pela misericórdia de Deus, que ofereçais os vossos corpos como hóstia viva, santa e agradável a Deus, para que o vosso culto seja razoável. Não vos conformeis com este século, mas reformai-vos com a renovação de vosso espírito para que conheçais a vontade de Deus que é boa, agradável e perfeita. Pela graça que me foi dada, digo, pois, a cada um dentre vós, que não presuma de si além do que convém pensar, mas pense com moderação e conforme a medida da fé, distribuída por Deus a cada um. Porque assim como em um só corpo temos muitos membros e nem todos têm a mesma função, assim, embora muitos, somos um só corpo em Cristo, e cada um de nós, membro um do outro no Cristo Jesus, Senhor nosso."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 71, 18 e 3 | Sl 99, 1)",
+      "texto_latim": "Benedíctus Dóminus, Deus Israël, qui facit mirabília magna solus a sǽculo. ℣. Suscípiant montes pacem pópulo tuo, et colles iustítiam. Allelúia, allelúia, ℣. Jubiláte Deo, omnis terra: servíte Dómino in lætítia. Allelúia.",
+      "texto_portugues": "Bendito seja o Senhor, Deus de Israel, pois só Ele, desde a eternidade, faz grandes maravilhas. ℣. Recebam os montes a paz para o vosso povo e sobre as colinas desça a justiça. Aleluia, aleluia. ℣. Aclamai a Deus, tôda a terra; servi ao Senhor, com alegria. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Lc 2, 42-52)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. Cum factus esset Jesus annórum duódecim, ascendéntibus illis Jerosólymam secúndum consuetúdinem diéi festi, consummatísque di bus, cum redírent, remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus. Existimántes autem illum esse in comitátu, venérunt iter diéi, et requirébant eum inter cognátos et notos. Et non inveniéntes, regréssi sunt in Jerúsalem, requiréntes eum. Et factum est, post tríduum invenérunt illum in templo sedéntem in médio doctórum, audiéntem illos et interrogántem eos. Stupébant autem omnes, qui eum audiébant, super prudéntia et respónsis ejus. Et vidéntes admiráti sunt. Et dixit Mater ejus ad illum: Fili, quid fecísti nobis sic? Ecce, pater tuus et ego doléntes quærebámus te. Et ait ad illos: Quid est, quod me quærebátis? Nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse? Et ipsi non intellexérunt verbum, quod locútus est ad eos. Et descéndit cum eis, et venit Názareth: et erat súbditus illis. Et Mater ejus conservábat ómnia verba hæc in corde suo. Et Jesus proficiébat sapiéntia et ætáte et grátia apud Deum et hómines.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Quando Jesus completou doze anos, subiram eles [Jesus e seus país] a Jerusalém, segundo o costume daquela festa. E acabados aqueles dias, ao regressarem, ficou o Menino Jesus em Jerusalém, sem que os seus, pais dessem por isso: Cuidando que Ele vinha em companhia de outros, caminharam um dia inteiro, e O procuravam entre os parentes e conhecidos. Mas não O achando, voltaram a Jerusalém para O procurar. Aconteceu que, depois de passados três dias, O acharam no templo, sentado no meio dos doutores, ouvindo- os e interrogando-os. E todos os que O ouviam, pasmavam de sua sabedoria e de suas respostas. Vendo-O, ficaram admirados. E disse-Lhe sua Mãe: Filho, por que nos fizeste isso? Eis que teu pai e eu Te procuravam aflitos. E Ele lhes disse: Por que me buscáveis? Não sabíeis que me devo ocupar no que é da vontade de meu Pai? Eles não entenderam, no entanto, a palavra que lhes dissera. Então desceu com eles e veio para Nazaré; e era-lhes submisso. Sua Mãe conservava todas essas palavras em seu coração. Entretanto Jesus crescia em sabedoria, em idade e graça diante de Deus e dos homens."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 65, 1-2 e 16)",
+      "texto_latim": "Jubiláte Deo, omnis terra, servíte Dómino in lætítia: intráte in conspéctu eius in exsultatióne: quia Dóminus ipse est Deus.",
+      "texto_portugues": "Aclamai a Deus, toda a terra; servi ao Senhor com alegria. Vinde à sua presença com alegre canto, porque só o Senhor é Deus."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Oblátum tibi, Dómine, sacrifícium vivíficet nos semper et múniat. Per D.N.",
+      "texto_portugues": "O Sacrifício que Vos oferecemos, Senhor, sempre nos vivifique e nos conforte. Por N. S."
+    },
+    {
+      "nome": "Prefácio (da Epifania)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi simper, et ubique gratias agree: Domine sancta, Pater omnipotens, aeterne Deus. Quia cum Unigenitus tuus in substantia nostrae mortalivatis apparuit, nova nos immortalitatis suae luce reparavit. Et ideo cum Angelis et Archangelis, cum Thronis et Dominationibus, cumque omni militia celestis exercitus, hymmum gloriae tuae canimus, sine fine dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. Porque, manifestando-se o vosso Unigênito Filho na substância de nossa carne mortal, restaurou-nos com a nova luz de sua imortalidade. E por isso, com os Anjos e os Arcanjos, com os Tronos e as Dominações, com toda a milícia do exército celestial, cantamos hinos à vossa glória, dizendo sem fim: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Lc 2, 48-49)",
+      "texto_latim": "Fili, quid fecísti nobis sic? ego et pater tuus doléntes quærebámus te. Et quid est, quod me quærebátis? nesciebátis, quia in his, quæ Patris mei sunt, opórtet me esse?",
+      "texto_portugues": "Filho, por que nos fizeste isto? Eu e teu pai, aflitos, Te procurávavam. — E por que me buscáveis? Não sabíeis que me devo ocupar no que é da vontade de meu Pai?"
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Súpplices te rogámus, omnípotens Deus: ut, quos tuis réficis sacraméntis, tibi etiam plácitis móribus dignánter deservíre concédas. Per D.N.",
+      "texto_portugues": "Humildes Vos suplicamos, ó Deus onipotente, concedei aos que saciais com os vossos Sacramentos, que também dignamente Vos sirvam com procedimento agradável a vosso olhar. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-13",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "Batismo de Nosso Senhor Jesus Cristo",
+  "classe_missa": "2ª Classe",
+  "observacoes": null,
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Mal. 3,1; I Cr 29, 12 | Sl 71, 1)",
+      "texto_latim": "Ecce, advénit dominátor Dóminus: et regnum in manu ejus et potéstas et impérium. Ps. Deus, judícium tuum Regi da: et justítiam tuam Fílio Regis. ℣. Gloria Patri.",
+      "texto_portugues": "Eis que ai vem, o soberano Senhor; em sua mão está o Reino, o Poder e o Império. Sl. Ó Deus, dai o vosso julgamento ao Rei; e a vossa justiça ao Filho do Rei. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, cujus Unigénitus in substántia nostræ carnis appáruit: præsta, quǽsumus; ut per eum, quem símilem nobis foris agnóvimus, intus reformári mereámur: Qui tecum vivit et regnat.",
+      "texto_portugues": "Ó Deus, cujo Filho Unigênito apareceu na natureza de nossa carne, concedei, Vos pedimos, que mereçamos ser reformados interiormente por Aquele que reconhecemos semelhante a nós exteriormente, Ele, que, sendo Deus, convosco vive e reina."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Is 60, 1-6)",
+      "texto_latim": "Lectio Isaíæ Prophétæ. Surge, illumináre, Jerúsalem: quia venit lumen tuum, et glória Dómini super te orta est. Quia ecce, ténebræ opérient terram et caligo pópulos: super te autem oriétur Dóminus, et glória ejus in te vidébitur. Et ambulábunt gentes in lúmine tuo, et reges in splendóre ortus tui. Leva in circúitu óculos tuos, et vide: omnes isti congregáti sunt, venérunt tibi: fílii tui de longe vénient, et fíliæ tuæ de látere surgent. Tunc vidébis et áfflues, mirábitur et dilatábitur cor tuum, quando convérsa fúerit ad te multitúdo maris, fortitúdo géntium vénerit tibi. Inundátio camelórum opériet te dromedárii Mádian et Epha: omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes.",
+      "texto_portugues": "Leitura do Profeta Isaías. Levanta-te, Jerusalém, e resplandece, porque já veio a tua luz, e a glória do Senhor nasceu sobre ti. Porque eis que as trevas cobrem a terra, e a escuridão, os povos, mas sobre ti se levanta o Senhor e em ti se manifesta a sua glória. E as nações caminham ao fulgor de tua luz, e os reis, ao splendór de tua aurora. Ergue os olhos em derredor, e vê: todos o povos se congregam e vêm a ti; teus filhos vêm de longe, e tuas filhas surgem de todos os lados. Então verás e transbordarás de alegria, teu coração se maravilhará e se dilatará, quando a ti vier a multidão de além dos mares, e os grandes, dentre os pagãos, se acercarem de ti. Serás como inundada pela afluência de camelos e dromedários de Mediam e Efa; todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 97, 3 e 2 | Heb 1, 1-2)",
+      "texto_latim": "Omnes de Saba vénient, aurum et thus deferéntes, et laudem Dómino annuntiántes. ℣. Surge et illumináre, Jerúsalem: quia glória Dómini super te orta est. Allelúia, allelúia, ℣. Vídimus stellam ejus in Oriénte,et vénimus cum munéribus adoráre Dóminum. Allelúia.",
+      "texto_portugues": "Todos virão de Sabá, trazendo ouro e incenso, e proclamando os louvores do Senhor. ℣. Levanta-te, Jerusalém, e resplandece, porque a glória do Senhor se levantou sobre ti. Aleluia, aleluia. ℣. Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Jo 1, 29-34)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Joánnem. In illo témpore: Vidit Ioánnes Iesum veniéntem ad se, et ait: Ecce Agnus Dei, ecce, qui tollit peccátum mundi. Hic est, de quo dixi: Post me venit vir, qui ante me factus est: quia prior me erat. Et ego nesciébam eum, sed ut manifestétur in Israël, proptérea veni ego in aqua baptízans. Et testimónium perhíbuit Ioánnes, dicens: Quia vidi Spíritum descendéntem quasi colúmbam de coelo, et mansit super eum. Et ego nesciébam eum: sed qui misit me baptizáre in aqua, ille mihi dixit: Super quem víderis Spíritum descendéntem, et manéntem super eum, hic est, qui baptízat in Spíritu Sancto. Et ego vidi: et testimónium perhíbui, quia hic est Fílius Dei. – CREDO…",
+      "texto_portugues": "Sequência do Santo Evangelho segundo João. Naquele tempo, viu João a Jesus que vinha a ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo. D’Este é que eu disse: Depois de mim virá um homem que foi antes de mim, porque existia primeiro que eu. Eu não O conhecia, mas, para Ele ser conhecido em Israel, vim batizar em água. E mais ainda testificou João: Vi o Espírito descer do céu, em forma de pomba, e pousar sobre Ele. Eu não O conhecia, mas, O que me mandou batizar com água, disse-me: Sobre quem vires descer e repousar o Espírito, Esse é quem batiza no Espírito Santo. Foi o que vi; e dou testemunho que Este é o Filho de Deus. – CREIO…"
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 71, 10-11)",
+      "texto_latim": "Reges Tharsis, et ínsulæ múnera ófferent: reges Arabum et Saba dona addúcent: et adorábunt eum omnes reges terræ, omnes gentes sérvient ei.",
+      "texto_portugues": "Os reis de Tarsis e das ilhas oferecer-Lhe-ão presentes; os reis da Arábia e de Sabá trarão donativos; adorá-Lo-ão todos os reis da terra e os povos todos O servirão."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Hóstias tibi, Dómine, pro nati Fílii tui apparitióne deférimus, supplíciter exorántes: ut, sicut ipse nostrórum auctor est múnerum, ita sit ipse miséricors et suscéptor, Iesus Christus, Dóminus noster: Qui tecum vivit et regnat.",
+      "texto_portugues": "Senhor, nós Vos oferecemos sacrifícios em memória da manifestação de vosso Filho que nasceu no mundo, suplicando-Vos que assim como Jesus Cristo, Nosso Senhor, é o Autor das nossas dádivas, assim também as aceite misericordiosamente, Ele, que, sendo Deus, convosco vive e reina."
+    },
+    {
+      "nome": "Prefácio (da Epifania)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi simper, et ubique gratias agree: Domine sancta, Pater omnipotens, aeterne Deus. Quia cum Unigenitus tuus in substantia nostrae mortalivatis apparuit, nova nos immortalitatis suae luce reparavit. Et ideo cum Angelis et Archangelis, cum Thronis et Dominationibus, cumque omni militia celestis exercitus, hymmum gloriae tuae canimus, sine fine dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus. Porque, manifestando-se o vosso Unigênito Filho na substância de nossa carne mortal, restaurou-nos com a nova luz de sua imortalidade. E por isso, com os Anjos e os Arcanjos, com os Tronos e as Dominações, com toda a milícia do exército celestial, cantamos hinos à vossa glória, dizendo sem fim: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Mt 2, 2)",
+      "texto_latim": "Vídimus stellam ejus in Oriénte, et vénimus cum munéribus adoráre Dóminum.",
+      "texto_portugues": "Vimos a sua estrela no Oriente, e viemos com presentes adorar o Senhor."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Cœlésti lúmine, quǽsumus, Dómine, semper et ubíque nos præveni: ut mystérium, cuius nos partícipes esse voluísti, et puro cernámus intúitu, et digno percipiámus affectu. Per D.N.",
+      "texto_portugues": "Nós Vos pedimos, Senhor, de sempre e em toda a parte nos assistirdes com a vossa luz celestial, para que consideremos com olhos puros e recebamos com afeto condigno o Mistério de que quisestes fazer-nos participar. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-14",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "II Domingo depois da Epifania",
+  "classe_missa": "Domingo de 2ª Classe",
+  "observacoes": "Missa Própria",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 65,4 | ib. 1-2)",
+      "texto_latim": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Ps. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. ℣. Gloria Patri.",
+      "texto_portugues": "A terra inteira Vos adore, ó Deus, e cante em vosso louvor, e a vosso Nome entoe hinos, ó Altíssimo. Sl. Aclamai a Deus, ó terra inteira, cantai salmos a seu Nome; glorificai-O, cantando em seu louvor. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Omnípotens sempitérne Deus, qui caeléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus. Per D.N.",
+      "texto_portugues": "Onipotente e eterno Deus, que governais igualmente ao céu e à terra, com a vossa Providência, escutai, benigno, as súplicas de vosso povo, e concedei aos nossos tempos, a vossa paz. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Rm 12, 6-16)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophétiam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóore ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Romanos. Irmãos: Tendo nós diferentes dons, segundo a graça que nos foi dada, bem usemos deles: se o dom de profecia, usai-o segundo a regra da fé: quem foi chamado ao ministério, administre bem; quem recebeu o dom de ensinar, ensine bem; quem exorta, exorte bem; quem dá esmola, dê com simplicidade. Quem preside, seja solícito; quem usa de misericórdia, faça-o com alegria. Seja o nosso amor, sem fingimento. Odiai o mal, e segui o bem. Amai-vos mutuamente, com amor fraternal, honrando-vos uns aos outros. Não sejais preguiçosos no que está a vosso cuidado. Sede fervorosos de espírito, servindo ao Senhor, e alegrando-vos com a esperança. Sede pacientes na tribulação e perseverantes na oração. Socorrei, como se fossem vossas, as necessidades dos santos, e praticai a hospitalidade. Abençoai os que vos perseguem: abençoai, e não amaldiçoeis! Alegrai-vos com os que se alegram, e chorai com os que choram. Tende entre vós os mesmos sentimentos, não aspirando a grandezas, mas acomodando-vos ao que é humilde."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 106, 20-21 | Sl 148, 2)",
+      "texto_latim": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. ℣. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúia, allelúia, ℣. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúia.",
+      "texto_portugues": "Enviou o Senhor a sua Palavra, e curou-os. Ele os arrancou de sua perdição. ℣. Glorifiquem o Senhor por suas misericórdias, e por suas maravilhas em favor dos filhos dos homens. Aleluia, aleluia. ℣. Louvai ao Senhor, vós, todos os seus Anjos; louvai-O, vós, todos os seus exércitos. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Jo 2, 1-11)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Jóannem. In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et deficiénte vino, dicit Mater Jesu ad eum: Vinum non habent. Et dicit ei Jesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater ejus minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Judæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Jesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Jesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Jesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli ejus.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo João. Naquele tempo, celebraram-se umas bodas em Caná de Galileia, e achava-se ali a Mãe de Jesus. E também Jesus foi convidado, com seus discípulos, para as bodas. Faltando o vinho, a Mãe de Jesus disse-Lhe: Não têm mais vinho. Respondeu-lhe Jesus: Mulher, que nos imporia isso, a Mim e a ti? Ainda não chegou a minha hora. Disse sua Mãe aos servidores: Fazei tudo quanto Ele vos disser. Ora, havia ali seis talhas de pedra destinadas às purificações usadas entre os judeus, cada uma das quais comportando duas ou três medidas. Disse-lhes Jesus: Enchei de água estas talhas. E encheram-nas até às bordas. E Jesus disse-lhes: Tirai agora e levai ao mestre-sala. E levaram. Assim que o mestre-sala provou a água transformada em vinho, sem saber de onde era, embora o soubessem os serventes que haviam tirado a água, chamou o mestre-sala ao esposo, e disse-lhe: Todo homem põe primeiro o bom vinho, e quando já se tem bebido, põe então o inferior; mas tu guardaste o bom vinho até agora. Este foi o primeiro dos milagres que Jesus fez em Caná de Galileia; e manifestou sua glória, e seus discípulos creram n’Ele."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 65, 1-2 e 16)",
+      "texto_latim": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúia.",
+      "texto_portugues": "Ó terra inteira, aclamai a Deus, cantai salmos a seu Nome. Vinde e ouvi, vós todos que temeis a Deus, e eu vos contarei quanto bem o Senhor fez à minha alma. Aleluia."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda. Per D.N.",
+      "texto_portugues": "Santificai, Senhor, as nossas ofertas, e purificai-nos das máculas de nossos pecados. Por N. S."
+    },
+    {
+      "nome": "Prefácio (da Santíssima Trindade)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi semper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus. Qui cum unigenito Filio: tuo et Spiritu Sancto, unus es Deus, unus es Dominus: non in unnius singularitate personae, sed in unius Trinitae substantiae. Quod enim de tua Gloria, revelante te, credimus, hoc de Filio tuo, hoc de Spiritu Sancto, sine differentia discretionis sentimus. Ut in confessione verae, sempiternaeque Deitatis, et in personis proprietas, et in essentia unitas, et in majestate adoretur aequalitas. Quam laudant Angeli atque Archangeli, Cherubim, quoque ac Seraphim: qui non cessant clamare quotidie, una voce dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . É verdadeiramente digno, justo, racional e salutar, que sempre e em toda a parte Vos rendamos graças, Senhor Santo, Pai onipotente e Deus eterno; Que sois, com o Vosso Filho Unigênito e com o Espírito Santo, um só Deus e um só Senhor, não na singularidade duma só pessoa, mas na Trindade duma só substância. Porque tudo aquilo que nos revelastes e cremos da Vossa glória, isso mesmo sentimos, sem diferença nem distinção, do Vosso Filho e do Espírito Santo, de maneira que, confessando a verdadeira e eterna Divindade, adoramos a propriedade nas Pessoas, a unidade na Essência e a igualdade na Majestade, a qual louvam os Anjos e os Arcanjos, os Querubins e os Serafins, que não cessam de cantar dizendo a uma só voz: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Jo 2, 7, 8, 9 e 10-11)",
+      "texto_latim": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis",
+      "texto_portugues": "Disse o Senhor: Enchei de água estas talhas e levai ao mestre-sala. Tendo provado a água feita vinho, disse o mestre-sala ao esposo: Tu guardaste o bom vinho até agora. Este foi o primeiro milagre que Jesus fez à vista de seus discípulos."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur. Per D.N.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, que em nós aumentem os efeitos de vosso poder, para que, nutridos com os divinos Sacramentos, dignamente nos preparemos para alcançar os bens de que eles são o penhor. Por N. S."
+    }
+  ]
+}
+Aqui está a conversão para o dia 15 de janeiro, Festa de São Paulo Eremita com a comemoração de São Amaro, seguindo o padrão JSON:
+
+JSON
+
+{
+  "data": "01-15",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "SÃO PAULO EREMITA, Confessor",
+  "classe_missa": "Festa de 3ª Classe",
+  "observacoes": "Missa Própria, com comemoração de S. Amaro, Abade",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 91, 13-14 | ib. 2)",
+      "texto_latim": "Justus ut palma florébit: sicut cedrus Líbani. multiplicábitur: plantátus in domo Dómini: in átriis domus Dei nostri. Ps. Bonum est confitéri Domino: et psállere nómini tuo, Altíssime. ℣.Gloria Patri.",
+      "texto_portugues": "O Justo florescerá como a palmeira, na plenitude da força, como o cedro do Líbano plantado na casa dó Senhor e nos átrios da casa de nosso Deus. Sl. É bom louvar ao Senhor, cantar salmos em honra de vosso Nome, ó Altíssimo. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Deus, qui nos beáti Paulus Confessóris tui ánnua solemnitáte laetíficas: concéde propítius; ut, cujus natalítia cólimus, étiam actiónes ímitémur. Per D. N.",
+      "texto_portugues": "Ó Deus, que nos alegrais com a solenidade anual de S. Paulo, vosso Confessor, concedei-nos propício que imitemos as ações do Santo cujo natalício celebramos. Por N. S."
+    },
+    {
+      "nome": "2ª Coleta (de S. Amaro)",
+      "referencia": null,
+      "texto_latim": "Intercéssio nos, quaésumus, Domine, beáti Mauri Âbbátis comméndet: ut, quod nostris mérítís non valémus, ejus patrocínio assequámur. Per D.N.",
+      "texto_portugues": "Rogamos, Senhor, que nos favoreça a intercessão do santo Abade Amaro, a fim de alcançarmos por seu patrocínio o que por nossos méritos não podemos obter. Por N. S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Fil 3, 7-12)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses. Fratres: Quæ mihi fuérunt lucra, hæc arbitrátus sum propter Christum defriménta. Verúmtamen exístimo ómnia detriméntum esse propter eminéntem sciéntiam Jesu Christi, Dómini mei: propter quem ómnia detriméntum feci et árbitror ut stércora, ut Christum lucrifáciam et invéniar in illo, non habens meam justítiam, quæ ex lege est, sed illam, quæ ex fide est Christi Jesu: quæ ex Deo est justítia in fide, ad cognoscéndum illum, et virtútem resurrectiónis ejus, et societátem passiónum illíus: configurátus morti ejus: si quo modo occúrram ad resurrectiónem, quæ est ex mórtuis: non quod jam accéperim aut jam perféctus sim: sequor autem, si quo modo comprehéndam, in quo et comprehénsus sum a Christo Jesu.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Filipenses. Irmãos: Aquilo que outrora me pareceu vantajoso, agora olho como prejudicial por causa do Cristo. Considero mesmo todas as coisas como perdas em virtude da excelência do conhecimento de Jesus Cristo, Senhor meu. Por Ele renunciei a todas as coisas, olhando-as como lixo, a fim de ganhar o Cristo e de ser achado n’ Ele, não por minha justiça, que vem da lei, mas pela que nasce da fé no Cristo Jesus, a justiça que vem de Deus por meio da fé. A Ele procuro conhecer e ao poder de sua Ressurreição: e procuro participar de seus sofrimentos, tornando-me conforme à sua morte para alcançar de algum modo a ressurreição dentre os mortos. Não que já tenha recebido o prêmio, ou seja perfeito: porém eu O sigo e trato de alcançar a recompensa, pois eu mesmo fui conquistado pelo Cristo Jesus."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 91, 13 e 14 | Os 14, 6)",
+      "texto_latim": "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini. ℣. Annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúia, allelúia. ℣. Justus germinábit sicut lílium: et florébit in ætérnum ante Dóminum. Allelúia.",
+      "texto_portugues": "O Justo florescerá como a palmeira na plenitude da força, como o cedro do Líbano na casa do Senhor. ℣. Para anunciar a vossa misericórdia desde a manhã, e até a noite, a vossa fidelidade. Aleluia, aleluia. ℣. O Justo germina como o lírio e floresce para sempre na presença do Senhor. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Mt 11, 25-30)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. In illo témpore: Respóndens Jesus, dixit: Confíteor tibi, Pater, Dómine coeli et terræ, quia abscondísti hæc a sapiéntibus ei prudéntibus, et revelásti ea párvulis. Ita, Pater: quóniam sic fuit plácitum ante te. Omnia mihi trádita sunt a Patre meo. Et nemo novit Fílium nisi Pater: neque Patrem quis novit nisi Fílius, et cui volúerit Fílius reveláre. Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos. Tóllite jugum meum super vos, et díscite a me, quia mitis sum et húmilis corde: et inveniétis réquiem animábus vestris. Jugum enim meum suáve est et onus meum leve.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Naquele tempo, respondeu Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e prudentes e as revelaste aos pequenos. Sim, Pai, assim foi de teu agrado. Todas as coisas me foram concedidas por meu Pai. E ninguém conhece o Filho senão o Pai e ninguém conhece o Pai a não ser o Filho e a quem o Filho o quiser revelar. Vinde a mim, todos vós que estais fatigados e sobrecarregados, e eu vos aliviarei. Tomai meu jugo sobre vós; aprendei de mim que sou manso e humilde de coração, e encontrareis repouso para vossas almas. Pois meu jugo é suave e meu fardo leve."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 20, 2-3)",
+      "texto_latim": "In virtúte tua, Dómine, lætábitur justus, et super salutáre tuum exsultábit veheménter: desidérium ánimæ ejus tribuísti ei.",
+      "texto_portugues": "O Justo se alegra em vosso poder, Senhor e por vosso auxílio muito ele se alegra. Vós satisfizestes os desejos de sua alma."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Laudis tibi, Dómine, hóstias immolámus in tuórum commemoratióne Sanctórum: quibus nos et præséntibus éxui malis confídimus et futúris. Per D.N.",
+      "texto_portugues": "Senhor, em memória de vossos Santos, nós Vos oferecemos estas hóstias de louvor, pelas quais esperamos livrar-nos dos males presentes e futuros. Por N. S."
+    },
+    {
+      "nome": "2ª Secreta (de S. Amaro)",
+      "referencia": null,
+      "texto_latim": "Sacris altáribus, Domine, hóstias superpósitas sanctus Maurus Abbas, quaésumus, in saltitem nobis proveníre depóscat. Per D.N.",
+      "texto_portugues": "Nós Vos imploramos, Senhor, que o santo Abade Amaro nos obtenha que as hóstias oferecidas em vosso sagrado altar nos aproveitem para nossa salvação. Por N. S."
+    },
+    {
+      "nome": "Prefácio (Comum)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos Tibi simper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus: per Christum Dominum nostrum. Per quem majestatem Tuam laudant Angeli, adorant Dominationes, tremunt Potestates, Coeli, Coelorumque Virtutes, ac beata Seraphim socia exultatione concelebrant. Cum quibus et nostras voces, ut admitti, jubeas, supplici confessione dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Paí onipotente, eterno Deus, por Jesus Cristo, Nosso Senhor. É por Ele que os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as virtudes dos Céus, e os bem-aventurados Serafins a celebram com recíproca alegria. Às suas vozes, nós Vos rogamos, mandeis que se unam as nossas, quando em humilde confissão Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Sl 63, 11)",
+      "texto_latim": "Lætábitur justus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde.",
+      "texto_portugues": "O Justo se alegra no Senhor, e Nele espera; rejubilem-se todos os retos de coração."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Refécti cibo potúque caelésti, Deus noster, te súpplices exorámus: ut, in cujus hæc commemoratióne percépimus, ejus muniámur et précibus. Per D.N.",
+      "texto_portugues": "Fortalecidos com este alimento e com esta bebida celestiais, humildemente Vos rogamos, ó Deus nosso, que nos defendam as preces dos Santos em cuja memória os recebemos. Por N. S."
+    },
+    {
+      "nome": "2ª Pós-comunhão (de S. Amaro)",
+      "referencia": null,
+      "texto_latim": "Prótegat nos, Dómine, cum tui perceptióne sacraménti beátus Maurus Abbas, pro nobis intercedéndo: ut et conversatiónis ejus experiámur insígnia, et intercessiónis percipiámus suffrágia. Per D.N.",
+      "texto_portugues": "Proteja-nos, Senhor, pela recepção de vosso Sacramento, o santo Abade Amaro, intercedendo por nós, a fim de que, imitando os exemplos de sua vida, sintamos os efeitos de sua intercessão. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-16",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "SÃO MARCELO I, Papa e Mártir",
+  "classe_missa": "Festa de 3ª Classe",
+  "observacoes": "Missa “Si diligis me” com Coleta própria. Este Papa governou a Igreja apenas um ano. Foi vítima da última perseguição dos Cristãos, no tempo de Maxêncio.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Eclo 15, 5 | Sl 91, 2)",
+      "texto_latim": "Si díligis Me, Simon Petre, pasce agnos meos, pasce oves meas. Allelúja, allelúia. Ps. Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me. ℣. Gloria Patri.",
+      "texto_portugues": "Se tu me amas, Simão Pedro, apascenta os meus cordeiros, apascenta as minhas ovelhas. Sl. Eu Vos glorificarei, Senhor, porque me recebestes, e não permitistes que os meus inimigos se alegrassem à minha custa. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Preces pópuli tui, quaésumus, Domine, cleménter exáudi: ut beáti Marcélli Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne laetámur. Per D. N.",
+      "texto_portugues": "Nós Vos rogamos, Senhor, ouvi benignamente as orações de vosso povo, a fim de que sejamos ajudados pelos méritos de S. Marcelo, vosso Mártir e Pontífice, cujo martírio alegremente celebramos. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(I Pe 5, 1-4.10-11)",
+      "texto_latim": "Léctio Epístolae beáti Petri Apóstoli. Petrus Apostolus Jesu Christi, electis advenis dispersionis Ponti, Galatiæ, Cappadociæ, Asiæ, et Bithyniæ, secundum præscientiam Dei Patris, in sanctificationem Spiritus, in obedientiam, et aspersionem sanguinis Jesu Christi: Gratia vobis, et pax multiplicetur. Benedictus Deus et Pater Domini nostri Jesu Christi, qui secundum misericordiam suam magnam regeneravit nos in spem vivam, per resurrectionem Jesu Christi ex mortuisin hæreditatem incorruptibilem, et incontaminatam, et immarcescibilem, conservatam in Cælis in vobis. De qua salute exquisierunt, atque scrutati sunt prophetæ, qui de futura in vobis gratia prophetaverunt :scrutantes in quod vel quale tempus significaret in eis Spiritus Christi : prænuntians eas quæ in Christo sunt passiones, et posteriores glorias.",
+      "texto_portugues": "Leitura da Epístola de São Pedro Apóstolo. Caríssimos: Aos anciãos entre vós exorto eu, ancião como eles e testemunha dos padecimentos de Cristo, como também companheiro na glória que se há de manifestar. Apascentai o rebanho de Deus que vos está confiado; tende cuidado dele, não constrangidos, mas de bom grado, segundo Deus, não por amor de lucro vil, mas por dedicação, não como que exercendo domínio sobre os Eleitos, mas fazendo-vos de coração modelos do rebanho. Quando então aparecer o Supremo Pastor recebereis a coroa imarcessível da glória. O Deus de toda a graça, que no Cristo Jesus nos chamou para a sua eterna glória, depois de haverdes padecido um pouco, vos aperfeiçoará, fortificará e consolidará. A Ele a glória e por todos os séculos. Amen."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 106, 32 e 31 | Mt 16, 18)",
+      "texto_latim": "Exáltent eum in Ecclésia plebis: et in cáthedra seniórum laudent eum. ℣. Confiteántur Dómino misericórdiæ ejus; et mirabília ejus fíliis hóminum. Allelúia, allelúia. ℣. Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam. Allelúia.",
+      "texto_portugues": "Eles o exaltem na assembléia do povo; eles o louvem no conselho dos anciãos. ℣. Eles louvem ao Senhor pela sua bondade e pelas maravilhas que fez aos filhos dos homens. Aleluia, aleluia. ℣. Tu és Pedro e sobre esta pedra edificarei a minha Igreja. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Mt 16, 13-19)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Matthaeum. In illo témpore: Venit Jesus in partes Cæsaréæ Philíppi, et interrogábat discípulos suos, dicens: “Quem dicunt hómines esse Fílium hóminis?” At illi dixérunt: Álii Joánnem Baptístam, álii autem Elíam, álii vero Jeremíam aut unum ex prophétis. Dicit illis Jesus: “Vos autem quem me esse dícitis?” Respóndens Simon Petrus, dixit: Tu es Christus, Fílius Dei vivi. Respóndens autem Jesus, dìxit ei: “Beátus es, Simon Bar Jona: quia caro et sanguis non revelávit tibi, sed Pater meus, qui in Cælis est. Et ego dico tibi, quia tu es Petrus, et super hanc petram ædificábo Ecclésiam meam, et portæ ínferi non prævalébunt advérsus eam. Et tibi dabo claves regni cælórum. Et quodcúmque ligáveris super terram, erit ligátum et in caelis: et quodcúmque sólveris super terram, erit solútum et in Cælis.”",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Mateus. Naquele tempo, veio Jesus para os lados de Cesareia de Filipe, e interrogou os seus discípulos: Na opinião dos homens quem é o Filho do homem? E eles responderam: Uns dizem que é João Batista, outros que é Elias, outros que Jeremias ou algum dos Profetas. Disse-lhes Jesus: E vós, quem julgais que eu sou? Tomando a palavra, Simão Pedro disse: Vós sois o Cristo, Filho de Deus vivo. E respondendo, Jesus disse: Bem-aventurado és tu, Simão Bar Jonas [filho de Jonas], porque não foi a carne e o sangue que te revelaram isso, mas meu Pai que está nos céus. E por isso te digo que és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela. Dar-te-ei as chaves do Reino dos céus. E tudo que ligares sobre a terra, será ligado nos céus; e tudo o que desligares sobre a terra, será desligado nos céus."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Jer 1, 9-10)",
+      "texto_latim": "Ecce, dedi verba mea in ore tuo: ecce, constítui te super gentes et super regna, ut evéllas et destruas, et ædífices et plantes.",
+      "texto_portugues": "Eis que Eu pus as minhas palavras na tua boca; eis que Eu te constitui hoje sobre as nações e sobre os reinos, para arrancares e destruíres, para edificares e plantares."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Oblátis munéribus, quǽsumus, Dómine, Ecclésiam tuam benígnus illúmina: ut, et gregis tui profíciat ubique succéssus, et grati fiant nómini tuo, te gubernánte, pastóres. Per D.N.",
+      "texto_portugues": "Por estas dádivas, Senhor, iluminai benignamente a vossa Igreja, para que, bem sucedida, progrida vosso rebanho em toda a parte e os pastores por Vós governados se tornem gratos ao vosso Nome. Por N. S."
+    },
+    {
+      "nome": "Prefácio (Comum)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos Tibi simper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus: per Christum Dominum nostrum. Per quem majestatem Tuam laudant Angeli, adorant Dominationes, tremunt Potestates, Coeli, Coelorumque Virtutes, ac beata Seraphim socia exultatione concelebrant. Cum quibus et nostras voces, ut admitti, jubeas, supplici confessione dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Paí onipotente, eterno Deus, por Jesus Cristo, Nosso Senhor. É por Ele que os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as virtudes dos Céus, e os bem-aventurados Serafins a celebram com recíproca alegria. Às suas vozes, nós Vos rogamos, mandeis que se unam as nossas, quando em humilde confissão Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Mt 16,18)",
+      "texto_latim": "Tu es Petrus, et super hanc petram ædificábo Ecclésiam meam.",
+      "texto_portugues": "Tu és Pedro e sobre esta pedra edificarei a minha Igreja"
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Refectióne sancta enutrítam gubérna, quǽsumus, Dómine, tuam placátus Ecclésiam: ut, poténti moderatióne dirécta, et increménta libertátis accípiat et in religiónis integritáte persístat. Per D.N.",
+      "texto_portugues": "Senhor, governai benignamente a vossa igreja, agora alimentada com a Refeição Sagrada, para que, sustentada por vosso braço poderoso, venha a crescer em liberdade e perseverar na integridade da religião. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-17",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "S. ANTÃO, Abade",
+  "classe_missa": "Festa de 3ª Classe",
+  "observacoes": "Missa “Os justi” (1ª do Comum dos abades), com Evangelho próprio. Nasceu de família nobre; com 15 anos foi para o deserto onde viveu 90 anos. A princípio eremita, atraiu por sua santidade numerosos discípulos e veio a ser o fundador dos Cenobitas, isto é, de monges que vivem em comum, sob a direção de um Abade.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 36, 30-31| ib. 1)",
+      "texto_latim": "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus. Ps. Noli æmulári in malignántibus; neque zeláveris faciéntes iniquitatem. ℣. Glória Patri.",
+      "texto_portugues": "A boca do Justo fala a sabedoria e a sua língua profere a equidade. A lei de seu Deus está em seu coração. Sl. Não tenhas ciúmes dos maus, nem tenhas inveja dos que praticam a iniquidade. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Intercéssio nos, quaésumus, Domine, beáti Antónii Abbátis comméndet: ut, quod nostris méritis non valémus, ejus patrocínio assequámur. Per D.N.",
+      "texto_portugues": "Rogamos, Senhor, que nos favoreça a intercessão do santo Abade Antão, a fim de alcançarmos por seu patrocínio o que por nossos méritos não podemos obter. Por N. S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Eclo 45, 1-6)",
+      "texto_latim": "Léctio líbri Sapiéntiae. Diléctus Deo et homínibus, cujus memória in benedictióne est. Símilem illum fecit in glória sanctórum, et magnificávit eum in timóre inimicórum, et in verbis suis monstra placávit. Glorificávit illum in conspéctu regum, et jussit illi coram pópulo suo, et osténdit illi glóriam suam. In fide et lenitáte ipsíus sanctum fecit illum, et elégit eum ex omni carne. Audívit enim eum et vocem ipsíus, et indúxit illum in nubem. Et dedit illi coram praecépta, et legem vitæ et disciplínæ.",
+      "texto_portugues": "Leitura do Livro da Sabedoria. Ele foi amado de Deus e dos homens; sua memória é abençoada. O Senhor o igualou aos Santos na glória, engrandeceu-o para temor dos seus inimigos e por suas palavras fez cessar as pragas. Glorificou-o diante dos reis; deu-lhe seus preceitos diante de seu povo e mostrou-lhe sua glória. Por sua fidelidade e mansidão o santificou e o escolheu dentre todos os homens. Deus lhe fez ouvir a sua voz, e fê-lo entrar na nuvem. E deu-lhe, face a face, os seus preceitos e a lei da vida e da doutrina."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 20, 4-5 | Sl 91, 13)",
+      "texto_latim": "Dómine, prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite ejus corónam de lápide pretióso. ℣. Vitam pétiit a te, et tribuísti ei longitúdinem diérum in sæculum sæculi. Allelúia, allelúia. ℣. Justus ut palma florébit: sicut cedrus Líbani multiplicábitur. Allelúia.",
+      "texto_portugues": "Senhor, Vós lhe concedestes abundantes bênçãos, pusestes sobre a sua cabeça uma coroa de pedras preciosas. ℣. Pediu-Vos vida e largos anos lhe concedestes pelos séculos dos séculos. Aleluia, aleluia. ℣. O Justo floresce como a palmeira, na plenitude da força, como o cedro do Líbano. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Lc 12, 35-40)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Lucam. In illo témpore: Dixit Jesus discípulis Suis: “Sint lumbi vestri præcíncti, et lucérnæ ardéntes in mánibus vestris, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis: ut, cum vénerit, et pulsáverit, conféstim apériant ei. Beáti servi illi, quos cum vénerit dóminus, invénerit vigilántes: amen dico vobis, quod præcínget se, et fáciet illos discúmbere, et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt servi illi. Hoc autem scitóte, quóniam si sciret paterfamílias, quia hora fur vénerit, vigiláret útique, et non síneret pérfodi domum suam. Et vos estúte paráti, quia qua hora non putátis, Fílius hóminis véniet.”",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Lucas. Naquele tempo, disse Jesus a seus discípulos: Estejam cingidos os vossos rins, e em vossas mãos lâmpadas acesas. E sede semelhantes a homens que esperam o seu senhor quando volta das bodas, para que, quando vier e bater à porta, logo a possam abrir. Bem-aventurados aqueles servos, que o Senhor, ao voltar, achar vigilantes. Em verdade vos digo: ele se cingirá e os fará sentar à mesa, e, passando por entre eles, os servirá. E se vier na segunda vigília, ou se vier na terceira e assim os encontrar, bem-aventurados esses servos! Atendei, porém a isto: se o pai de família soubesse a hora em que viria o ladrão, com certeza haveria de vigiar e, sem dúvida, não deixaria invadir a sua casa. Assim, estai também vós preparados, porque à hora em que não cuidais, virá o Filho do homem."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 20, 3-4)",
+      "texto_latim": "Desidérium ánimæ ejus tribuísti ei, Dómine, et voluntáte labiórum ejus non fraudásti eum: posuísti in cápite ejus corónam de lápide pretióso.",
+      "texto_portugues": "Vós satisfizestes o desejo de seu coração, Senhor, e não desprezastes os votos de seus lábios. Pusestes sobre a sua cabeça uma coroa de pedras preciosas."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Sacris altáribus, Dómine, hóstias superpósitas sanctus Antónius Abbas, quæsumus, in salútem nobis proveníre depóscat. Per D.N.",
+      "texto_portugues": "Nós Vos imploramos, Senhor, que o santo Abade Antão nos obtenha que as hóstias oferecidas em vosso sagrado altar nos aproveitem para nossa salvação. Por N. S."
+    },
+    {
+      "nome": "Prefácio (Comum)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos Tibi simper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus: per Christum Dominum nostrum. Per quem majestatem Tuam laudant Angeli, adorant Dominationes, tremunt Potestates, Coeli, Coelorumque Virtutes, ac beata Seraphim socia exultatione concelebrant. Cum quibus et nostras voces, ut admitti, jubeas, supplici confessione dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Paí onipotente, eterno Deus, por Jesus Cristo, Nosso Senhor. É por Ele que os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as virtudes dos Céus, e os bem-aventurados Serafins a celebram com recíproca alegria. Às suas vozes, nós Vos rogamos, mandeis que se unam as nossas, quando em humilde confissão Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Lc 12, 42)",
+      "texto_latim": "Fidélis servus et prudens, quem constítuit dóminus super famíliam suam: ut det illis in témpore trítici mensúram.",
+      "texto_portugues": "Eis o servo fiel e prudente que o Senhor pôs à frente de sua família, para dar a cada um o Pão, a seu tempo."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Prótegat nos, Dómine, cum tui perceptióne sacraménti beátus Antónius, pro nobis intercedéndo: ut et conversatiónis ejus experiámur insígnia, et intercessiónis percipiámus suffrágia. Per D.N.",
+      "texto_portugues": "Proteja-nos, Senhor, pela recepção de vosso Sacramento, o santo Abade Antão, intercedendo por nós, a fim de que, imitando os exemplos de sua vida, sintamos os efeitos de sua intercessão. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-18",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "MISSA DA FÉRIA (Sábado do 2º Domingo após a Epifania)",
+  "classe_missa": "4ª Classe",
+  "observacoes": "Missa do domingo, com comemoração de S. Prisca (ou Priscila), Virgem e Mártir. Jesus Cristo realiza seu primeiro milagre em Caná: a conversão da água em vinho.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 65, 4 | ib. 1-2)",
+      "texto_latim": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Ps. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. ℣. Gloria Patri.",
+      "texto_portugues": "A terra inteira Vos adore, ó Deus, e cante em vosso louvor, e a vosso Nome entoe hinos, ó Altíssimo. Sl. Aclamai a Deus, ó terra inteira, cantai salmos a seu Nome; glorificai-O, cantando em seu louvor. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Omnípotens sempitérne Deus, qui caeléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus. Per D.N.",
+      "texto_portugues": "Onipotente e eterno Deus, que governais igualmente ao céu e à terra, com a vossa Providência, escutai, benigno, as súplicas de vosso povo, e concedei aos nossos tempos, a vossa paz. Por N.S."
+    },
+    {
+      "nome": "2ª Coleta (de S. Prisca)",
+      "referencia": null,
+      "texto_latim": "Da, quǽsumus, omnípotens Deus: ut, qui beátæ Priscæ Vírginis et Mártyris tuæ natalítia cólimus; et ánnua sollemnitáte lætémur, et tantæ fídei proficiámus exémplo. Per D. N.",
+      "texto_portugues": "Concedei, nós Vos rogamos, ó Deus onipotente, que, celebrando o nascimento de S. Prisca, vossa Virgem e Mártir, nós nos alegremos por esta solenidade anual e façamos progresso pelo exemplo de sua tão grande fé. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Rm 12, 6-16)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophétiam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóore ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Romanos. Irmãos: Tendo nós diferentes dons, segundo a graça que nos foi dada, bem usemos deles: se o dom de profecia, usai-o segundo a regra da fé: quem foi chamado ao ministério, administre bem; quem recebeu o dom de ensinar, ensine bem; quem exorta, exorte bem; quem dá esmola, dê com simplicidade. Quem preside, seja solícito; quem usa de misericórdia, faça-o com alegria. Seja o nosso amor, sem fingimento. Odiai o mal, e segui o bem. Amai-vos mutuamente, com amor fraternal, honrando-vos uns aos outros. Não sejais preguiçosos no que está a vosso cuidado. Sede fervorosos de espírito, servindo ao Senhor, e alegrando-vos com a esperança. Sede pacientes na tribulação e perseverantes na oração. Socorrei, como se fossem vossas, as necessidades dos santos, e praticai a hospitalidade. Abençoai os que vos perseguem: abençoai, e não amaldiçoeis! Alegrai-vos com os que se alegram, e chorai com os que choram. Tende entre vós os mesmos sentimentos, não aspirando a grandezas, mas acomodando-vos ao que é humilde."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 106, 20-21 | Sl 148, 2)",
+      "texto_latim": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. ℣. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúia, allelúia. ℣. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúia.",
+      "texto_portugues": "Enviou o Senhor a sua Palavra, e curou-os. Ele os arrancou de sua perdição. ℣. Glorifiquem o Senhor por suas misericórdias, e por suas maravilhas em favor dos filhos dos homens. Aleluia, aleluia. ℣. Louvai ao Senhor, vós, todos os seus Anjos; louvai-O, vós, todos os seus exércitos. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Jo 2, 1-11)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Jóannem. In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et deficiénte vino, dicit Mater Jesu ad eum: Vinum non habent. Et dicit ei Jesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater ejus minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Judæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Jesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Jesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Jesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli ejus.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo João. Naquele tempo, celebraram-se umas bodas em Caná de Galileia, e achava-se ali a Mãe de Jesus. E também Jesus foi convidado, com seus discípulos, para as bodas. Faltando o vinho, a Mãe de Jesus disse-Lhe: Não têm mais vinho. Respondeu-lhe Jesus: Mulher, que nos imporia isso, a Mim e a ti? Ainda não chegou a minha hora. Disse sua Mãe aos servidores: Fazei tudo quanto Ele vos disser. Ora, havia ali seis talhas de pedra destinadas às purificações usadas entre os judeus, cada uma das quais comportando duas ou três medidas. Disse-lhes Jesus: Enchei de água estas talhas. E encheram-nas até às bordas. E Jesus disse-lhes: Tirai agora e levai ao mestre-sala. E levaram. Assim que o mestre-sala provou a água transformada em vinho, sem saber de onde era, embora o soubessem os serventes que haviam tirado a água, chamou o mestre-sala ao esposo, e disse-lhe: Todo homem põe primeiro o bom vinho, e quando já se tem bebido, põe então o inferior; mas tu guardaste o bom vinho até agora. Este foi o primeiro dos milagres que Jesus fez em Caná de Galileia; e manifestou sua glória, e seus discípulos creram n’Ele."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 65, 1-2 e 16)",
+      "texto_latim": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúia.",
+      "texto_portugues": "Ó terra inteira, aclamai a Deus, cantai salmos a seu Nome. Vinde e ouvi, vós todos que temeis a Deus, e eu vos contarei quanto bem o Senhor fez à minha alma. Aleluia."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda. Per D.N.",
+      "texto_portugues": "Santificai, Senhor, as nossas ofertas, e purificai-nos das máculas de nossos pecados. Por N. S."
+    },
+    {
+      "nome": "2ª Secreta (de S. Prisca)",
+      "referencia": null,
+      "texto_latim": "Hæc hóstia, quǽsumus, Dómine, quam Sanctórum tuórum natalítia recenséntes offérimus, et víncula nostræ pravitátis absólvat, et tuæ nobis misericórdiæ dona concílie. Per D.N.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, que esta hóstia que Vos oferecemos, celebrando o natalício de vossos Santos, nos desligue dos laços de nossos pecados e nos alcance os dons de vossa misericórdia. Por N.S."
+    },
+    {
+      "nome": "Prefácio (Comum)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos Tibi simper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus: per Christum Dominum nostrum. Per quem majestatem Tuam laudant Angeli, adorant Dominationes, tremunt Potestates, Coeli, Coelorumque Virtutes, ac beata Seraphim socia exultatione concelebrant. Cum quibus et nostras voces, ut admitti, jubeas, supplici confessione dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadeiramente é digno e justo, razoável e salutar, que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Paí onipotente, eterno Deus, por Jesus Cristo, Nosso Senhor. É por Ele que os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as virtudes dos Céus, e os bem-aventurados Serafins a celebram com recíproca alegria. Às suas vozes, nós Vos rogamos, mandeis que se unam as nossas, quando em humilde confissão Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Jo 2, 7, 8, 9 e 10-11)",
+      "texto_latim": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis.",
+      "texto_portugues": "Disse o Senhor: Enchei de água estas talhas e levai ao mestre-sala. Tendo provado a água feita vinho, disse o mestre-sala ao esposo: Tu guardaste o bom vinho até agora. Este foi o primeiro milagre que Jesus fez à vista de seus discípulos."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur. Per D.N.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, que em nós aumentem os efeitos de vosso poder, para que, nutridos com os divinos Sacramentos, dignamente nos preparemos para alcançar os bens de que eles são o penhor. Por N. S."
+    },
+    {
+      "nome": "2ª Pós-comunhão (de S. Prisca)",
+      "referencia": null,
+      "texto_latim": "Quǽsumus, Dómine, salutáribus repléti mystériis: ut, cuius sollémnia celebrámus, eius oratiónibus adiuvémur. Per D.N.",
+      "texto_portugues": "Saciados com os salutares Mistérios, nós Vos suplicamos, Senhor, concedei-nos que sejamos auxiliados pelas orações da Santa cuja solenidade celebramos. Por N. S."
+    }
+  ]
+}
+{
+  "data": "01-19",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "II DOMINGO DEPOIS DA EPIFANIA",
+  "classe_missa": "Domingo de 2ª Classe",
+  "observacoes": "Jesus Cristo é o Rei da criação, e por isso, toda a terra O deve adorar e louvar como a seu Redentor. Vemo-Lo hoje, nas bodas de Caná (Evangelho), realizando seu primeiro milagre: a conversão da água em vinho. Aqui converte o vinho em seu Preciosíssimo Sangue, a fim de comunicar aos homens a sua divindade.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 65, 4 | ib. 1-2)",
+      "texto_latim": "Omnis terra adóret te, Deus, et psallat tibi: psalmum dicat nómini tuo, Altíssime. Ps. Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus. ℣. Gloria Patri.",
+      "texto_portugues": "A terra inteira Vos adore, ó Deus, e cante em vosso louvor, e a vosso Nome entoe hinos, ó Altíssimo. Sl. Aclamai a Deus, ó terra inteira, cantai salmos a seu Nome; glorificai-O, cantando em seu louvor. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Omnípotens sempitérne Deus, qui caeléstia simul et terréna moderáris: supplicatiónes pópuli tui cleménter exáudi; et pacem tuam nostris concéde tempóribus. Per D.N.",
+      "texto_portugues": "Onipotente e eterno Deus, que governais igualmente ao céu e à terra, com a vossa Providência, escutai, benigno, as súplicas de vosso povo, e concedei aos nossos tempos, a vossa paz. Por N.S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Rm 12, 6-16)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános. Fratres: Habéntes donatiónes secúndum grátiam, quæ data est nobis, differéntes: sive prophétiam secúndum ratiónem fídei, sive ministérium in ministrándo, sive qui docet in doctrína, qui exhortátur in exhortándo, qui tríbuit in simplicitáte, qui præest in sollicitúdine, qui miserétur in hilaritáte. Diléctio sine simulatióne. Odiéntes malum, adhæréntes bono: Caritáte fraternitátis ínvicem diligéntes: Honóore ínvicem præveniéntes: Sollicitúdine non pigri: Spíritu fervéntes: Dómino serviéntes: Spe gaudéntes: In tribulatióne patiéntes: Oratióni instántes: Necessitátibus sanctórum communicántes: Hospitalitátem sectántes. Benedícite persequéntibus vos: benedícite, et nolíte maledícere. Gaudére cum gaudéntibus, flere cum fléntibus: Idípsum ínvicem sentiéntes: Non alta sapiéntes, sed humílibus consentiéntes.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Romanos. Irmãos: Tendo nós diferentes dons, segundo a graça que nos foi dada, bem usemos deles: se o dom de profecia, usai-o segundo a regra da fé: quem foi chamado ao ministério, administre bem; quem recebeu o dom de ensinar, ensine bem; quem exorta, exorte bem; quem dá esmola, dê com simplicidade. Quem preside, seja solícito; quem usa de misericórdia, faça-o com alegria. Seja o nosso amor, sem fingimento. Odiai o mal, e segui o bem. Amai-vos mutuamente, com amor fraternal, honrando-vos uns aos outros. Não sejais preguiçosos no que está a vosso cuidado. Sede fervorosos de espírito, servindo ao Senhor, e alegrando-vos com a esperança. Sede pacientes na tribulação e perseverantes na oração. Socorrei, como se fossem vossas, as necessidades dos santos, e praticai a hospitalidade. Abençoai os que vos perseguem: abençoai, e não amaldiçoeis! Alegrai-vos com os que se alegram, e chorai com os que choram. Tende entre vós os mesmos sentimentos, não aspirando a grandezas, mas acomodando-vos ao que é humilde."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Sl 106, 20-21 | Sl 148, 2)",
+      "texto_latim": "Misit Dóminus verbum suum, et sanávit eos: et erípuit eos de intéritu eórum. ℣. Confiteántur Dómino misericórdiæ ejus: et mirabília ejus fíliis hóminum. Allelúia, allelúia. ℣. Laudáte Dóminum, omnes Angeli ejus: laudáte eum, omnes virtútes ejus. Allelúia.",
+      "texto_portugues": "Enviou o Senhor a sua Palavra, e curou-os. Ele os arrancou de sua perdição. ℣. Glorifiquem o Senhor por suas misericórdias, e por suas maravilhas em favor dos filhos dos homens. Aleluia, aleluia. ℣. Louvai ao Senhor, vós, todos os seus Anjos; louvai-O, vós, todos os seus exércitos. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Jo 2, 1-11)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Jóannem. In illo témpore: Núptiæ factæ sunt in Cana Galilǽæ: et erat Mater Jesu ibi. Vocátus est autem et Jesus, et discípuli ejus ad núptias. Et deficiénte vino, dicit Mater Jesu ad eum: Vinum non habent. Et dicit ei Jesus: Quid mihi et tibi est, mulier? nondum venit hora mea. Dicit Mater ejus minístris: Quodcúmque díxerit vobis, fácite. Erant autem ibi lapídeæ hýdriæ sex pósitæ secúndum purificatiónem Judæórum, capiéntes síngulæ metrétas binas vel ternas. Dicit eis Jesus: Implete hýdrias aqua. Et implevérunt eas usque ad summum. Et dicit eis Jesus: Hauríte nunc, et ferte architriclíno. Et tulérunt. Ut autem gustávit architriclínus aquam vinum fáctam, et non sciébat unde esset, minístri autem sciébant, qui háuserant aquam: vocat sponsum architriclínus, et dicit ei: Omnis homo primum bonum vinum ponit: et cum inebriáti fúerint, tunc id, quod detérius est. Tu autem servásti bonum vinum usque adhuc. Hoc fecit inítium signórum Jesus in Cana Galilǽæ: et manifestávit glóriam suam, et credidérunt in eum discípuli ejus.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo João. Naquele tempo, celebraram-se umas bodas em Caná de Galileia, e achava-se ali a Mãe de Jesus. E também Jesus foi convidado, com seus discípulos, para as bodas. Faltando o vinho, a Mãe de Jesus disse-Lhe: Não têm mais vinho. Respondeu-lhe Jesus: Mulher, que nos imporia isso, a Mim e a ti? Ainda não chegou a minha hora. Disse sua Mãe aos servidores: Fazei tudo quanto Ele vos disser. Ora, havia ali seis talhas de pedra destinadas às purificações usadas entre os judeus, cada uma das quais comportando duas ou três medidas. Disse-lhes Jesus: Enchei de água estas talhas. E encheram-nas até às bordas. E Jesus disse-lhes: Tirai agora e levai ao mestre-sala. E levaram. Assim que o mestre-sala provou a água transformada em vinho, sem saber de onde era, embora o soubessem os serventes que haviam tirado a água, chamou o mestre-sala ao esposo, e disse-lhe: Todo homem põe primeiro o bom vinho, e quando já se tem bebido, põe então o inferior; mas tu guardaste o bom vinho até agora. Este foi o primeiro dos milagres que Jesus fez em Caná de Galileia; e manifestou sua glória, e seus discípulos creram n’Ele."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 65, 1-2 e 16)",
+      "texto_latim": "Jubiláte Deo, univérsa terra: psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúia.",
+      "texto_portugues": "Ó terra inteira, aclamai a Deus, cantai salmos a seu Nome. Vinde e ouvi, vós todos que temeis a Deus, e eu vos contarei quanto bem o Senhor fez à minha alma. Aleluia."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Oblata, Dómine, múnera sanctífica: nosque a peccatórum nostrórum máculis emúnda. Per D.N.",
+      "texto_portugues": "Santificai, Senhor, as nossas ofertas, e purificai-nos das máculas de nossos pecados. Por N. S."
+    },
+    {
+      "nome": "Prefácio da Santíssima Trindade",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos tibi semper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus. Qui cum unigenito Filio: tuo et Spiritu Sancto, unus es Deus, unus es Dominus: non in unnius singularitate personae, sed in unius Trinitae substantiae. Quod enim de tua Gloria, revelante te, credimus, hoc de Filio tuo, hoc de Spiritu Sancto, sine differentia discretionis sentimus. Ut in confessione verae, sempiternaeque Deitatis, et in personis proprietas, et in essentia unitas, et in majestate adoretur aequalitas. Quam laudant Angeli atque Archangeli, Cherubim, quoque ac Seraphim: qui non cessant clamare quotidie, una voce dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . É verdadeiramente digno, justo, racional e salutar, que sempre e em toda a parte Vos rendamos graças, Senhor Santo, Pai onipotente e Deus eterno; Que sois, com o Vosso Filho Unigênito e com o Espírito Santo, um só Deus e um só Senhor, não na singularidade duma só pessoa, mas na Trindade duma só substância. Porque tudo aquilo que nos revelastes e cremos da Vossa glória, isso mesmo sentimos, sem diferença nem distinção, do Vosso Filho e do Espírito Santo, de maneira que, confessando a verdadeira e eterna Divindade, adoramos a propriedade nas Pessoas, a unidade na Essência e a igualdade na Majestade, a qual louvam os Anjos e os Arcanjos, os Querubins e os Serafins, que não cessam de cantar dizendo a uma só voz: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Jo 2, 7, 8, 9 e 10-11)",
+      "texto_latim": "Dicit Dóminus: Implete hýdrias aqua et ferte architriclíno. Cum gustásset architriclínus aquam vinum factam, dicit sponso: Servásti bonum vinum usque adhuc. Hoc signum fecit Jesus primum coram discípulis suis.",
+      "texto_portugues": "Disse o Senhor: Enchei de água estas talhas e levai ao mestre-sala. Tendo provado a água feita vinho, disse o mestre-sala ao esposo: Tu guardaste o bom vinho até agora. Este foi o primeiro milagre que Jesus fez à vista de seus discípulos."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Augeátur in nobis, quǽsumus, Dómine, tuæ virtútis operatio: ut divínis vegetáti sacraméntis, ad eórum promíssa capiénda, tuo múnere præparémur. Per D.N.",
+      "texto_portugues": "Nós Vos suplicamos, Senhor, que em nós aumentem os efeitos de vosso poder, para que, nutridos com os divinos Sacramentos, dignamente nos preparemos para alcançar os bens de que eles são o penhor. Por N. S."
+    }
+  ]
+}
+{
+"data": "01-20",
+  "titulo_liturgia": "Liturgia Diária",
+  "festa": "S. FABIANO, Papa, e SEBASTIÃO, Mártires",
+  "classe_missa": "Festa de 3ª Classe",
+  "observacoes": "S. Fabiano governou a Igreja de 236 a 250. S. Sebastião, oficial do imperador, confessando-se cristão, foi atravessado por setas e em seguida morto a pauladas. Sobre a sua sepultura levantou-se uma das sete basílicas principais de Roma. Ele é padroeiro contra a peste.",
+  "partes_missa": [
+    {
+      "nome": "Introito",
+      "referencia": "(Sl 78, 11, 12 e 10 | ib. 1)",
+      "texto_latim": "Intret in conspéctu tuo, Dómine, gémitus compeditórum: redde vicínis nostris séptuplum in sinu eórum: víndica sánguinem Sanctórum tuórum, qui effúsus est. Ps. Deus, venérunt gentes in hereditátem tuam: polluérunt templum sanctum tuum: posuérunt Ierúsalem in pomórum custódiam. ℣. Glória Patri.",
+      "texto_portugues": "Chegue à vossa presença, Senhor, o gemido dos cativos. Retribuí sete vezes a nossos vizinhos [o mal que fizeram]. Vingai o sangue de vossos Santos que foi derramado. Sl. Ó Deus, os gentios invadiram a vossa herança, profanaram o vosso santo templo e reduziram Jerusalém a uma cabana em ruínas. ℣. Glória ao Pai."
+    },
+    {
+      "nome": "Coleta",
+      "referencia": null,
+      "texto_latim": "Infirmitátem nostram réspice, omnípotens Deus: et, quia pondus própriæ actiónis gravat, beatórum Mártyrum tuórum Fabiáni et Sebastiáni intercéssio gloriósa nos prótegat. Per D.N.",
+      "texto_portugues": "Ó Deus onipotente, considerai a nossa fraqueza, e por nos oprimir o peso de nossas culpas, fazei com que nos proteja a gloriosa intercessão de vossos santos Mártires Fabiano e Sebastião. Por N. S."
+    },
+    {
+      "nome": "Epístola",
+      "referencia": "(Heb 11, 33-39)",
+      "texto_latim": "Léctio Epístolæ beáti Pauli Apóstoli ad Hebrǽos. Fratres: Sancti per fidem vicérunt regna, operáti sunt iustítiam, adépti sunt repromissiónes, obturavérunt ora leónum, exstinxérunt ímpetum ignis, effugérunt áciem gládii, convaluérunt de infirmitáte, fortes facti sunt in bello, castra vertérunt exterórum: accepérunt mulíeres de resurrectióne mórtuos suos: álii autem disténti sunt, non suscipiéntes redemptiónem, ut meliórem invenírent resurrectiónem: alii vero ludíbria et vérbera expérti, ínsuper et víncula et cárceres: lapidáti sunt, secti sunt, tentáti sunt, in occisióne gládii mórtui sunt: circuiérunt in melótis, in péllibus caprínis, egéntes, angustiáti, afflicti: quibus dignus non erat mundus: in solitudínibus errantes, in móntibus et spelúncis et in cavérnis terræ. Et hi omnes testimónio fídei probáti, invénti sunt in Christo Iesu, Dómino nostro.",
+      "texto_portugues": "Leitura da Epístola de São Paulo Apóstolo aos Hebreus. Irmãos: Pela fé, os Santos conquistaram reinos, exerceram a justiça e obtiveram promessas, fecharam as bocas dos leões, extinguiram a violência do fogo, livraram-se do fio das espadas, foram curados de suas moléstias, tornaram-se valorosos na guerra e afugentaram exércitos inimigos. Mulheres receberam novamente seus mortos pela ressurreição. Alguns foram cruelmente atormentados, não aceitando ser libertados para melhor ressurreição. Outros sofreram escárnios e açoites, cadeias e prisões; foram lapidados, serrados, torturados, mortos a golpes de espada. Ficaram errantes, cobertos de peles de ovelhas e de cabras, necessitados de tudo, angustiados, aflitos, eles de quem o mundo não era digno, vagando nos desertos, nas montanhas, cavernas e antros da terra. E todos eles obtiveram aprovação pelo testemunho que davam de sua fé em Jesus Cristo, Nosso Senhor."
+    },
+    {
+      "nome": "Gradual",
+      "referencia": "(Ex 15, 11 e 6 | Sl 144, 10-11)",
+      "texto_latim": "Gloriósus Deus in Sanctis suis: mirábilis in maiestáte, fáciens prodígia. ℣. Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúia, allelúia. ℣. Sancti tui, Dómine, benedícent te: glóriam regni tui dicent. Allelúia.",
+      "texto_portugues": "Deus é glorioso em seus Santos; admirável em sua Majestade, praticando prodígios. ℣. Vossa Destra, Senhor, assinalou-se por sua força; a vossa Destra destruiu o inimigo. Aleluia, aleluia. ℣. Vossos Santos, Senhor, Vos louvam; eles cantam a glória de vosso Reino. Aleluia."
+    },
+    {
+      "nome": "Evangelho",
+      "referencia": "(Lc 6, 17-23)",
+      "texto_latim": "Sequéntia sancti Evangélii secúndum Lucam. In illo témpore: descéndens Iesus de monte, stetit in loco campéstri, et turba discipulórum eius, et multitúdo copiósa plebis ab omni Iudæa, et Ierúsalem, et marítima, et Tyri, et Sidónis, qui vénerant, ut audírent eum, et sanaréntur a languóribus suis. Et, qui vexabántur a spirítibus immúndis, curabántur. Et omnis turba quærébat eum tángere: quia virtus de illo exíbat, et sanábat omnes. Et ipse, elevátis óculis in discípulos suos, dicebat: Beáti, páuperes: quia vestrum est regnum Dei. Beáti, qui nunc esurítis: quia saturabímini. Beáti, qui nunc fletis: quia ridébitis. Beáti éritis, cum vos óderint hómines, et cum separáverint vos et exprobráverint, et eiécerint nomen vestrum tamquam malum, propter Fílium hóminis. Gaudéte in illa die et exsultáte: ecce enim, merces vestra multa est in cœlo.",
+      "texto_portugues": "Sequência do Santo Evangelho segundo Lucas. Naquele tempo, desceu Jesus da montanha, e parou na planície. A comitiva de seus discípulos e uma grande multidão do povo de toda a Judeia, de Jerusalém e da região marítima, de Tiro e de Sidon, tinham concorrido para O ouvir e se curar de todas as suas enfermidades. E os que eram vexados pelos espíritos imundos ficavam curados. E todo o povo procurava tocá-Lo, porque emanava d’Ele uma força que os curava a todos. Erguendo então os olhos para seus discípulos, disse Jesus: Bem-aventurados, vós, os pobres, porque vosso é o Reino de Deus. Bem-aventurados os que agora tendes fome, porque sereis fartos. Bem-aventurados os que agora chorais, porque haveis de rir. Bem-aventurados sereis quando os homens vos odiarem, vos repelirem, carregarem de injúrias, e votarem ao desprezo o vosso nome como mau, por causa do Filho do homem. Alegrai-vos nesse dia, e exultai, porque a vossa recompensa é grande no Reino do céu."
+    },
+    {
+      "nome": "Ofertório",
+      "referencia": "(Sl 31, 11)",
+      "texto_latim": "Lætámini in Dómino et exsultáte, iusti: et gloriámini, omnes recti corde.",
+      "texto_portugues": "Alegrai-vos no Senhor, e exultai, ó Justos. Gloriai-vos n’ Ele, vós todos que sois retos de coração."
+    },
+    {
+      "nome": "Secreta",
+      "referencia": null,
+      "texto_latim": "Hóstias tibi, Dómine, beatórum Mártyrum tuórum Fabiáni et Sebastiáni dicátas méritis, benígnus assúme: et ad perpétuum nobis tríbue proveníre subsídium. Per D. N.",
+      "texto_portugues": "Senhor, pelos muitos méritos de vossos Mártires Fabiano e Sebastião, aceitai, benigno, as hóstias que Vos oferecemos, e concedei que nos sirvam de perpétuo socorro. Por N. S."
+    },
+    {
+      "nome": "Prefácio (Comum)",
+      "referencia": null,
+      "texto_latim": "℣. Dóminus vobíscum. ℞. Et cum spíritu tuo. ℣. Sursum corda. ℞. Habémus ad Dóminum. ℣. Grátias agámus Dómino Deo nostro. ℞. Dignum et iustum est. . Vere dignum et justum est, aequum et salutare, nos Tibi simper, et ubique gratias agere: Domine sancte, Pater omnipotens, aeterne Deus: per Christum Dominum nostrum. Per quem majestatem Tuam laudant Angeli, adorant Dominationes, tremunt Potestates, Coeli, Coelorumque Virtutes, ac beata Seraphim socia exultatione concelebrant. Cum quibus et nostras voces, ut admitti, jubeas, supplici confessione dicentes: Sanctus, Sanctus, Sanctus…",
+      "texto_portugues": "℣. O Senhor seja convosco. ℞. E com o vosso espírito, ℣. Para o alto os corações. ℞. Já os temos para o Senhor, ℣. Demos graças ao Senhor, nosso Deus. ℞. É digno e justo. . Verdadiramente é digno e justo, razoável e salutar, que, sempre e em todo o lugar, Vos demos graças, ó Senhor santo, Pai onipotente, eterno Deus, por Jesus Cristo, Nosso Senhor. É por Ele que os Anjos louvam a vossa Majestade, as Dominações a adoram, tremem as Potestades. Os Céus, as virtudes dos Céus, e os bem-aventurados Serafins a celebram com recíproca alegria. Às suas vozes, nós Vos rogamos, mandeis que se unam as nossas, quando em humilde confissão Vos dizemos: Santo, Santo, Santo…"
+    },
+    {
+      "nome": "Comunhão",
+      "referencia": "(Lc 6, 18 e 19)",
+      "texto_latim": "Multitúdo languéntium, et qui vexabántur a spirítibus immúndis, veniébant ad eum: quia virtus de illo exíbat, et sanábat omnes.",
+      "texto_portugues": "Uma grande multidão de doentes e daqueles que eram atormentados pelos espíritos imundos, vinham a Jesus, porque d’Ele emanava uma força e Ele os curava a todos."
+    },
+    {
+      "nome": "Pós-comunhão",
+      "referencia": null,
+      "texto_latim": "Refécti participatióne múneris sacri, quǽsumus, Dómine, Deus noster: ut, cuius exséquimur cultum, intercedéntibus sanctis Martýribus tuis Fabiáno et Sebastiáno, sentiámus efféctum. Per D.N.",
+      "texto_portugues": "Confortados com a participação nos salutares Mistérios deste Dom sagrado, nós Vos rogamos, Senhor, sejamos auxiliados pela oração de vossos santos Mártires Fabiano e Sebastião, cuja solenidade celebramos. Por N. S."
+    }
+  ]
+}
