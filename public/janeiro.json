@@ -1,3 +1,4 @@
+[
 {
   "data": "01-01",
   "titulo_liturgia": "Liturgia Diária",
@@ -66,7 +67,7 @@
       "texto_portugues": "Fazei, Senhor, que esta Comunhão nos purifique de nossas faltas, e, pela intercessão da Bem-aventurada Vírgine Maria, Mãe de Deus, nos faça participar do remédio celeste. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-02",
   "titulo_liturgia": "Liturgia Diária",
@@ -135,7 +136,7 @@
       "texto_portugues": "Deus, Todo-Poderoso e eterno que nós criastes e remistes, atendei propício a nossos votos e dignai-Vos receber, com suave e benigno olhar, o Sacrifício da hóstia salutar que oferecemos à Vossa Majestade em honra do Nome do vosso Filho, Nosso Senhor Jesus Cristo. Derramai sobre nós a vossa graça, para que nos possamos alegrar de ter os nossos nomes inscritos no céu, abaixo do glorioso Nome de Jesus, que é o título da eterna predestinação. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-03",
   "titulo_liturgia": "Liturgia Diária",
@@ -204,7 +205,7 @@
       "texto_portugues": "Fazei, Senhor, que esta Comunhão nos purifique de nossas faltas, e, pela intercessão da Bem-aventurada Virgem Maria, Mãe de Deus, nos faça participar do remédio celeste. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-04",
   "titulo_liturgia": "Liturgia Diária",
@@ -291,7 +292,7 @@
       "texto_portugues": "Fazei, Senhor, que esta Comunhão nos purifique de nossas faltas, e, pela intercessão da Bem-aventurada Virgem Maria, Mãe de Deus, nos faça participar do remédio celeste. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-05",
   "titulo_liturgia": "Liturgia Diária",
@@ -360,7 +361,7 @@
       "texto_portugues": "Deus, Todo-Poderoso e eterno que nós criastes e remistes, atendei propício a nossos votos e dignai-Vos receber, com suave e benigno olhar, o Sacrifício da hóstia salutar que oferecemos à Vossa Majestade em honra do Nome do vosso Filho, Nosso Senhor Jesus Cristo. Derramai sobre nós a vossa graça, para que nos possamos alegrar de ter os nossos nomes inscritos no céu, abaixo do glorioso Nome de Jesus, que é o título da eterna predestinação. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-06",
   "titulo_liturgia": "Liturgia Diária",
@@ -429,7 +430,7 @@
       "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-07",
   "titulo_liturgia": "Liturgia Diária",
@@ -498,7 +499,7 @@
       "texto_portugues": "Esta Comunhão, Senhor, nos purifique de nossas faltas, e, intercedendo por nós a Bem-aventurada Virgem Maria, Mãe de Deus, nos faça participar do remédio celeste. Pelo mesmo J. C."
     }
   ]
-}
+},
 {
   "data": "01-08",
   "titulo_liturgia": "Liturgia Diária",
@@ -567,7 +568,7 @@
       "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-09",
   "titulo_liturgia": "Liturgia Diária",
@@ -636,7 +637,7 @@
       "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-10",
   "titulo_liturgia": "Liturgia Diária",
@@ -705,7 +706,7 @@
       "texto_portugues": "Fazei, nós Vos pedimos, ó Deus onipotente, que alcancemos com inteligência e pureza de alma o Mistério que celebramos com tão festivo ofício. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-11",
   "titulo_liturgia": "Liturgia Diária",
@@ -792,7 +793,7 @@
       "texto_portugues": "Senhor, governai benignamente, a vossa Igreja, agora alimentada com a Refeição Sagrada, para que, sustentada por vosso braço poderoso venha a crescer em liberdade e perseverar na integridade da religião. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-12",
   "titulo_liturgia": "Liturgia Diária",
@@ -861,7 +862,7 @@
       "texto_portugues": "Humildes Vos suplicamos, ó Deus onipotente, concedei aos que saciais com os vossos Sacramentos, que também dignamente Vos sirvam com procedimento agradável a vosso olhar. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-13",
   "titulo_liturgia": "Liturgia Diária",
@@ -930,7 +931,7 @@
       "texto_portugues": "Nós Vos pedimos, Senhor, de sempre e em toda a parte nos assistirdes com a vossa luz celestial, para que consideremos com olhos puros e recebamos com afeto condigno o Mistério de que quisestes fazer-nos participar. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-14",
   "titulo_liturgia": "Liturgia Diária",
@@ -999,11 +1000,7 @@
       "texto_portugues": "Nós Vos suplicamos, Senhor, que em nós aumentem os efeitos de vosso poder, para que, nutridos com os divinos Sacramentos, dignamente nos preparemos para alcançar os bens de que eles são o penhor. Por N. S."
     }
   ]
-}
-Aqui está a conversão para o dia 15 de janeiro, Festa de São Paulo Eremita com a comemoração de São Amaro, seguindo o padrão JSON:
-
-JSON
-
+},
 {
   "data": "01-15",
   "titulo_liturgia": "Liturgia Diária",
@@ -1090,7 +1087,7 @@ JSON
       "texto_portugues": "Proteja-nos, Senhor, pela recepção de vosso Sacramento, o santo Abade Amaro, intercedendo por nós, a fim de que, imitando os exemplos de sua vida, sintamos os efeitos de sua intercessão. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-16",
   "titulo_liturgia": "Liturgia Diária",
@@ -1159,7 +1156,7 @@ JSON
       "texto_portugues": "Senhor, governai benignamente a vossa igreja, agora alimentada com a Refeição Sagrada, para que, sustentada por vosso braço poderoso, venha a crescer em liberdade e perseverar na integridade da religião. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-17",
   "titulo_liturgia": "Liturgia Diária",
@@ -1228,7 +1225,7 @@ JSON
       "texto_portugues": "Proteja-nos, Senhor, pela recepção de vosso Sacramento, o santo Abade Antão, intercedendo por nós, a fim de que, imitando os exemplos de sua vida, sintamos os efeitos de sua intercessão. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-18",
   "titulo_liturgia": "Liturgia Diária",
@@ -1315,7 +1312,7 @@ JSON
       "texto_portugues": "Saciados com os salutares Mistérios, nós Vos suplicamos, Senhor, concedei-nos que sejamos auxiliados pelas orações da Santa cuja solenidade celebramos. Por N. S."
     }
   ]
-}
+},
 {
   "data": "01-19",
   "titulo_liturgia": "Liturgia Diária",
@@ -1384,7 +1381,7 @@ JSON
       "texto_portugues": "Nós Vos suplicamos, Senhor, que em nós aumentem os efeitos de vosso poder, para que, nutridos com os divinos Sacramentos, dignamente nos preparemos para alcançar os bens de que eles são o penhor. Por N. S."
     }
   ]
-}
+},
 {
 "data": "01-20",
   "titulo_liturgia": "Liturgia Diária",
@@ -1454,3 +1451,4 @@ JSON
     }
   ]
 }
+]
